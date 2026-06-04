@@ -1,24 +1,18 @@
-# PhanDucThang_AWS26 — Báo cáo thực tập AWS FCJ
+# Phan Duc Thang — Internship Report (AWS26)
 
-Site Hugo (theme Learn) deploy lên GitHub Pages qua GitHub Actions.
+Báo cáo thực tập Hugo site cho **Phan Đức Thắng**, lớp **AWS26**.
 
-## Repository
+- **Repository:** https://github.com/thawngs18/PhanDucThang_AWS26
+- **GitHub Pages:** https://thawngs18.github.io/PhanDucThang_AWS26/
 
-- GitHub: https://github.com/thawngs18/PhanDucThang_AWS26
-- Pages: https://thawngs18.github.io/PhanDucThang_AWS26/
+## Deploy
 
-## Cấu hình GitHub Pages
+Push lên nhánh `main` — workflow `.github/workflows/hugo.yml` sẽ build và publish lên nhánh `gh-pages`.
 
-1. Vào **Settings → Pages**
-2. **Source**: chọn **GitHub Actions**
-3. Push lên nhánh `main` — workflow `.github/workflows/hugo.yml` sẽ build và deploy tự động
+Trong **Settings → Pages**, chọn source: **Deploy from a branch**, branch `gh-pages`, folder `/ (root)`.
 
-## Chạy local
+## Local preview
 
 ```bash
 hugo server -D
 ```
-
-## Điền thông tin cá nhân
-
-Chỉnh `content/_index.md` và `content/_index.vi.md`, thêm ảnh `static/images/profile.png`.

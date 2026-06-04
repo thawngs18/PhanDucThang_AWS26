@@ -1,38 +1,39 @@
 ---
 title: "Internship Report"
-date: "2025-09-08"
+date: 2026-01-01
 weight: 1
 chapter: false
 ---
 
 # Internship Report
+
 ### Student Information:
 &emsp; **Full Name:** Phan Duc Thang
 
-&emsp; **Phone Number:** [Your phone number]
+&emsp; **Phone Number:** _（fill in）_
 
-&emsp; **Email:** [your-email@example.com]
+&emsp; **Email:** _（fill in）_
 
-&emsp; **University:** [Your university]
+&emsp; **University:** _（fill in）_
 
-&emsp; **Major:** [Your major]
+&emsp; **Major:** Information Technology
 
-&emsp; **Class:** [Your class] &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
+&emsp; **Class:** AWS26
 
-&emsp; **Internship Position:** FCJ Cloud Intern
+&emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
-&emsp; **Internship Duration:** From [start date] to [end date]
+&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-![Your profile photo](/images/profile.png)
+&emsp; **Internship Duration:** _（fill in）_
 
+![Your profile picture](/images/avatar.png)
 
-
-### Report Contents
+### Report Content
 
 1.  [Worklog](1-Worklog/)
 2.  [Proposal](2-Proposal/)
-3.  [Translated Blogs](3-BlogsTranslated/)
-4.  [Participated Events](4-EventParticipated/)
+3.  [BlogsPosted](3-BlogsPosted/)
+4.  [Events Participated](4-EventParticipated/)
 5.  [Workshop](5-Workshop/)
 6.  [Self-evaluation](6-Self-evaluation/)
 7.  [Sharing and Feedback](7-Feedback/)

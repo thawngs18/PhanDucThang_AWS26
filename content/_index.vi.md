@@ -1,35 +1,38 @@
 ---
 title: "Báo cáo thực tập"
-date: "2025-09-08"
+date: 2026-01-01
 weight: 1
 chapter: false
 ---
 
 # Báo cáo thực tập
+
 ### Thông tin sinh viên:
 &emsp; **Họ và tên:** Phan Đức Thắng
 
-&emsp; **Số điện thoại:** [Số điện thoại của bạn]
+&emsp; **Số điện thoại:** _（điền thông tin）_
 
-&emsp; **Email:** [email-cua-ban@example.com]
+&emsp; **Email:** _（điền thông tin）_
 
-&emsp; **Trường:** [Tên trường]
+&emsp; **Trường:** _（điền thông tin）_
 
-&emsp; **Ngành:** [Ngành học]
+&emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** [Lớp] &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
+&emsp; **Lớp:** AWS26
 
-&emsp; **Vị trí thực tập:** FCJ Cloud Intern
+&emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 
-&emsp; **Thời gian thực tập:** Từ ngày [ngày bắt đầu] đến ngày [ngày kết thúc]
+&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-![Ảnh đại diện](/images/profile.png)
+&emsp; **Thời gian thực tập:** _（điền thông tin）_
+
+![Ảnh đại diện của bạn](/images/avatar.png)
 
 ### Nội dung báo cáo
 
 1.  [Worklog](1-Worklog/)
 2.  [Proposal](2-Proposal/)
-3.  [Các bài blogs đã dịch](3-BlogsTranslated/)
+3.  [Các bài blogs đã đăng](3-BlogsPosted/)
 4.  [Các events đã tham gia](4-EventParticipated/)
 5.  [Workshop](5-Workshop/)
 6.  [Tự đánh giá](6-Self-evaluation/)
