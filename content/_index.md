@@ -10,13 +10,13 @@ chapter: false
 ### Student Information:
 &emsp; **Full Name:** Phan Duc Thang
 
-&emsp; **Phone Number:** _（fill in）_
+&emsp; **Phone Number:** 0906027752
 
-&emsp; **Email:** _（fill in）_
+&emsp; **Email:** phanducthang.work@gmail.com
 
-&emsp; **University:** _（fill in）_
+&emsp; **University:** Ho Chi Minh City University of Technology (HUTECH)
 
-&emsp; **Major:** Information Technology
+&emsp; **Major:** Information Security
 
 &emsp; **Class:** AWS26
 
@@ -24,7 +24,7 @@ chapter: false
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** _（fill in）_
+&emsp; **Internship Duration:** From 17/04/2026 to 10/07/2026
 
 ![Your profile picture](/images/avatar.png)
 
