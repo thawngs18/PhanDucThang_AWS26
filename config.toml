@@ -1,6 +1,6 @@
 baseURL = "https://thawngs18.github.io/PhanDucThang_AWS26/"
 relativeURLs = false
-canonifyURLs = false
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
