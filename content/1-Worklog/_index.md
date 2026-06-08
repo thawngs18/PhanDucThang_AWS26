@@ -6,13 +6,12 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-**On this page**, you will need to introduce your worklog. **How** did you complete it? How many weeks did you take to complete the program? **What** did you do in those weeks?
 
 The worklog is carried out over about 3 months (throughout the internship period) with weekly contents as follows:
 
 **Week 1:** [FCJ onboarding, AWS Free Tier, IAM setup, and VPC/EC2 fundamentals](1.1-Week1/)
 
-**Week 2:** [Week 2](1.2-Week2/)
+**Week 2:** [IDS/IPS research, SOAR fundamentals, and GuardDuty–EventBridge–Lambda–WAF architecture](1.2-Week2/)
 
 **Week 3:** [Week 3](1.3-Week3/)
 

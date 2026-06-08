@@ -6,13 +6,12 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-**Trong trang này** bạn sẽ cần giới thiệu worklog của bạn **như thế nào**? Bạn hoàn thành chương trình trong vòng **bao nhiêu tuần**? Bạn **đã làm gì** trong các tuần đó?
 
 Worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian thực tập) với nội dung các tuần như sau:
 
 **Tuần 1:** [Làm quen FCJ, AWS Free Tier, thiết lập IAM và nền tảng VPC/EC2](1.1-Week1/)
 
-**Tuần 2:** [Tuần 2](1.2-Week2/)
+**Tuần 2:** [Nghiên cứu IDS/IPS, nền tảng SOAR và kiến trúc GuardDuty–EventBridge–Lambda–WAF](1.2-Week2/)
 
 **Tuần 3:** [Tuần 3](1.3-Week3/)
 
