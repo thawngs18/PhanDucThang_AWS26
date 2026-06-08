@@ -13,15 +13,15 @@ Worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian
 
 **Tuần 2:** [Nghiên cứu IDS/IPS, nền tảng SOAR và kiến trúc GuardDuty–EventBridge–Lambda–WAF](1.2-Week2/)
 
-**Tuần 3:** [Tuần 3](1.3-Week3/)
+**Tuần 3:** [Triển khai EC2/S3/WAF, tự động hóa GuardDuty-Lambda và khung NIST CSF/AWS CAF](1.3-Week3/)
 
-**Tuần 4:** [Tuần 4](1.4-Week4/)
+**Tuần 4:** [Thiết kế kiến trúc SOAR, Log-Driven và Network-Driven Automation](1.4-Week4/)
 
-**Tuần 5:** [Tuần 5](1.5-Week5/)
+**Tuần 5:** [SOAR thực chiến, Snort IDS, Splunk SIEM và Threat Hunting](1.5-Week5/)
 
-**Tuần 6:** [Tuần 6](1.6-Week6/)
+**Tuần 6:** [Thiết kế CloudSec Nexus — JSON Schema, Threat Modeling, React Flow](1.6-Week6/)
 
-**Tuần 7:** [Tuần 7](1.7-Week7/)
+**Tuần 7:** [AWS Step Functions và hoàn thiện kiến trúc CloudSec Nexus](1.7-Week7/)
 
 **Tuần 8:** [Tuần 8](1.8-Week8/)
 

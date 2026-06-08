@@ -13,15 +13,15 @@ The worklog is carried out over about 3 months (throughout the internship period
 
 **Week 2:** [IDS/IPS research, SOAR fundamentals, and GuardDuty–EventBridge–Lambda–WAF architecture](1.2-Week2/)
 
-**Week 3:** [Week 3](1.3-Week3/)
+**Week 3:** [EC2/S3/WAF deployment, GuardDuty-Lambda automation, and NIST CSF/AWS CAF](1.3-Week3/)
 
-**Week 4:** [Week 4](1.4-Week4/)
+**Week 4:** [SOAR architecture design, Log-Driven and Network-Driven automation](1.4-Week4/)
 
-**Week 5:** [Week 5](1.5-Week5/)
+**Week 5:** [Hands-on SOAR, Snort IDS, Splunk SIEM, and Threat Hunting](1.5-Week5/)
 
-**Week 6:** [Week 6](1.6-Week6/)
+**Week 6:** [CloudSec Nexus design — JSON Schema, Threat Modeling, React Flow simulation](1.6-Week6/)
 
-**Week 7:** [Week 7](1.7-Week7/)
+**Week 7:** [AWS Step Functions and CloudSec Nexus architecture completion](1.7-Week7/)
 
 **Week 8:** [Week 8](1.8-Week8/)
 
