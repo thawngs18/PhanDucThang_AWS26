@@ -6,11 +6,22 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-Events you joined during the internship.
+### [Event 1](4.1-Event1/)  
+&emsp;**Event Name:** Kick Off AWS First Cloud AI Journey  
 
-- [Event 1](4.1-Event1/)
-- [Event 2](4.2-Event2/)
+&emsp;**Date & Time:** 09:00, April 7, 2026  
 
-| Event | Date | Summary |
-| ----- | ---- | ------- |
-|       |      |         |
+&emsp;**Location:** Hall E3-05.01, HUTECH Thu Duc Campus  
+
+&emsp;**Role:** Attendee  
+
+---
+
+### [Event 2](4.2-Event2/)  
+&emsp;**Event Name:** FCAJ Community Day – Conference Call  
+
+&emsp;**Date & Time:** 09:00, May 23, 2026  
+
+&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+
+&emsp;**Role:** Attendee  
