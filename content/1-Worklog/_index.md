@@ -23,7 +23,7 @@ The worklog is carried out over about 3 months (throughout the internship period
 
 **Week 7:** [AWS Step Functions and CloudSec Nexus architecture completion](1.7-Week7/)
 
-**Week 8:** [Week 8](1.8-Week8/)
+**Week 8:** [Software supply chain security, Defense in Depth, SBOM, and Well-Architected](1.8-Week8/)
 
 **Week 9:** [Week 9](1.9-Week9/)
 

@@ -23,7 +23,7 @@ Worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian
 
 **Tuần 7:** [AWS Step Functions và hoàn thiện kiến trúc CloudSec Nexus](1.7-Week7/)
 
-**Tuần 8:** [Tuần 8](1.8-Week8/)
+**Tuần 8:** [Bảo mật chuỗi cung ứng phần mềm, Defense in Depth, SBOM và Well-Architected](1.8-Week8/)
 
 **Tuần 9:** [Tuần 9](1.9-Week9/)
 
