@@ -25,10 +25,10 @@ The worklog is carried out over about 3 months (throughout the internship period
 
 **Week 8:** [Software supply chain security, Defense in Depth, SBOM, and Well-Architected](1.8-Week8/)
 
-**Week 9:** [Week 9](1.9-Week9/)
+**Week 9:** [CloudSec Nexus implementation — React Flow frontend, FastAPI backend, Gemini AI](1.9-Week9/)
 
-**Week 10:** [Week 10](1.10-Week10/)
+**Week 10:** [Attack simulation with defense, Hacker Overlay, animation, and tooltips](1.10-Week10/)
 
-**Week 11:** [Week 11](1.11-Week11/)
+**Week 11:** [EditPanel, topology update, UI polish, and bug fixes](1.11-Week11/)
 
 **Week 12:** [Week 12](1.12-Week12/)

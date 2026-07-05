@@ -25,10 +25,10 @@ Worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian
 
 **Tuần 8:** [Bảo mật chuỗi cung ứng phần mềm, Defense in Depth, SBOM và Well-Architected](1.8-Week8/)
 
-**Tuần 9:** [Tuần 9](1.9-Week9/)
+**Tuần 9:** [Triển khai CloudSec Nexus — React Flow frontend, FastAPI backend, Gemini AI](1.9-Week9/)
 
-**Tuần 10:** [Tuần 10](1.10-Week10/)
+**Tuần 10:** [Mô phỏng tấn công kèm phòng thủ, Hacker Overlay, animation và tooltips](1.10-Week10/)
 
-**Tuần 11:** [Tuần 11](1.11-Week11/)
+**Tuần 11:** [EditPanel, cập nhật topology, hoàn thiện UI và sửa lỗi](1.11-Week11/)
 
 **Tuần 12:** [Tuần 12](1.12-Week12/)
