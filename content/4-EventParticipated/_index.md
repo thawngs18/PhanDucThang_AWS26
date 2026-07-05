@@ -6,22 +6,24 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** Kick Off AWS First Cloud AI Journey  
+During my internship, I participated in four AWS community events. Each one was a memorable experience that provided new knowledge, and wonderful moments.
 
-&emsp;**Date & Time:** 09:00, April 7, 2026  
+### [Event 1](4.1-Event1/)
+&emsp;**Event Name:** Kick Off AWS First Cloud AI Journey
 
-&emsp;**Location:** Hall E3-05.01, HUTECH Thu Duc Campus  
+&emsp;**Date & Time:** 09:00, April 07, 2026
 
-&emsp;**Role:** Attendee  
+&emsp;**Location:** Auditorium E3-05.01, HUTECH Thu Duc
+
+&emsp;**Role:** Attendee
 
 ---
 
-### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** FCAJ Community Day – Conference Call  
+### [Event 2](4.2-Event2/)
+&emsp;**Event Name:** AWS FCAJ Community Day – Conference Call
 
-&emsp;**Date & Time:** 09:00, May 23, 2026  
+&emsp;**Date & Time:** 09:00, May 23, 2026
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+&emsp;**Location:** 36th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 
-&emsp;**Role:** Attendee  
+&emsp;**Role:** Attendee
