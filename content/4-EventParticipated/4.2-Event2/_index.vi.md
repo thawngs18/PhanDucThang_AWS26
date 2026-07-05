@@ -1,12 +1,12 @@
 ﻿---
 title: "Event 2"
 date: 2026-05-23
-weight: 1
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# FCAJ Community Day - Conference Call
+# AWS FCAJ Community Day – Conference Call
 
 ### Mục Đích Của Sự Kiện
 
@@ -17,12 +17,12 @@ pre: " <b> 4.2. </b> "
 
 ### Danh Sách Diễn Giả
 
-- **Tinh Truong** – Platform Engineer, GoTymeX
-- **Pham Ng Hai Anh** – AWS Community Builder, G-AsiaPacific Vietnam
-- **Nguyen Tuan Thinh** – DevOps Engineer, FCAJ
-- **Team VIB** – GenAI Engineer, VIB, Participants, LotusHacks 2026
-- **Duc Dao** – Solution Architect, Cloud Kinetics
-- **Vy Lam** – Senior Business Systems Analyst, VPBank
+- **Tinh Truong** - Platform Engineer, GoTymeX
+- **Pham Ng Hai Anh** - AWS Community Builder, G-AsiaPacific Vietnam
+- **Nguyen Tuan Thinh** - DevOps Engineer, FCAJ
+- **Team VIB** - GenAI Engineer, VIB, Participants, LotusHacks 2026
+- **Duc Dao** - Solution Architect, Cloud Kinetics
+- **Vy Lam** - Senior Business Systems Analyst, VPBank
 
 ### Nội Dung Nổi Bật
 
@@ -60,19 +60,19 @@ pre: " <b> 4.2. </b> "
 
 #### Tư Duy Thiết Kế Hệ Thống AI
 
-- **Context Quality > Context Quantity:** Không phải cứ nhồi nhét tài liệu vào AI là tốt, cần đưa đúng dữ liệu (relevant evidence).
-- **Multi-Agent vs Single Agent:** Hiểu rõ khi nào dùng AI đơn (công việc tuyến tính, rủi ro thấp) và khi nào cần AI đa tác vụ (quyết định quan trọng, cần chuyên môn sâu đa ngành).
-- **Xây dựng hệ thống bao dung với rủi ro:** Luôn coi output của LLM là xác suất (probabilistic) chứ không phải tuyệt đối (deterministic).
+- Context Quality > Context Quantity: Không phải cứ nhồi nhét tài liệu vào AI là tốt, cần đưa đúng dữ liệu (relevant evidence).
+- Multi-Agent vs Single Agent: Hiểu rõ khi nào dùng AI đơn (công việc tuyến tính, rủi ro thấp) và khi nào cần AI đa tác vụ (quyết định quan trọng, cần chuyên môn sâu đa ngành).
+- Xây dựng hệ thống bao dung với rủi ro: Luôn coi output của LLM là xác suất (probabilistic) chứ không phải tuyệt đối (deterministic).
 
 #### Kiến Trúc & Hạ Tầng Kỹ Thuật
 
-- **Bảo mật sâu (Defense in Depth):** Ẩn hoàn toàn server xử lý phía sau CloudFront và VPC, chỉ cho phép traffic đi qua các lớp kiểm tra (WAF, OAC).
-- **Guardrails cho AI:** Áp dụng kiểm soát nghiêm ngặt 3 lớp: Input (PII, Prompt Injection), Processing (Token budget, Timeout) và Output (Hallucination, Bias).
+- Bảo mật sâu (Defense in Depth): Ẩn hoàn toàn server xử lý phía sau CloudFront và VPC, chỉ cho phép traffic đi qua các lớp kiểm tra (WAF, OAC).
+- Guardrails cho AI: Áp dụng kiểm soát nghiêm ngặt 3 lớp: Input (PII, Prompt Injection), Processing (Token budget, Timeout) và Output (Hallucination, Bias).
 
 #### Chiến Lược Triển Khai Thực Tế
 
-- **Phased approach cho Enterprise AI:** Từ Local/CrewAI → AgentCore → Docker/ECR → Lambda/API Gateway. Không đi tắt bỏ qua bước security.
-- **Đo lường ROI:** Chuyển đổi quy trình bằng AI (ví dụ: Credit Scoring) không chỉ tiết kiệm giờ làm (giảm 95% chi phí quyết định) mà còn tăng tỷ lệ duyệt hồ sơ.
+- Phased approach cho Enterprise AI: Từ Local/CrewAI → AgentCore → Docker/ECR → Lambda/API Gateway. Không đi tắt bỏ qua bước security.
+- Đo lường ROI: Chuyển đổi quy trình bằng AI (ví dụ: Credit Scoring) không chỉ tiết kiệm giờ làm (giảm 95% chi phí quyết định) mà còn tăng tỷ lệ duyệt hồ sơ.
 
 ### Ứng Dụng Vào Công Việc
 
@@ -83,7 +83,8 @@ pre: " <b> 4.2. </b> "
 
 ### Trải Nghiệm Trong Event
 
-- Tham gia sự kiện là một trải nghiệm mở rộng tầm mắt, kết nối hoàn hảo giữa tầng tư duy (Context/AI behavior), tầng ứng dụng (Multi-agent/Hackathon) và tầng hạ tầng (CloudFront/AWS services).
+Tham gia sự kiện là một trải nghiệm mở rộng tầm mắt, kết nối hoàn hảo giữa tầng tư duy (Context/AI behavior), tầng ứng dụng (Multi-agent/Hackathon) và tầng hạ tầng (CloudFront/AWS services).
+
 - **Học hỏi từ các chuyên gia:** Các bài nói chuyện không chỉ dừng ở lý thuyết bề nổi mà đi rất sâu vào bản chất (ví dụ như bài phân tích lỗi toán học floating-point của GPU làm ảnh hưởng đến tính deterministic của LLM).
 - **Trải nghiệm thực tế:** Hiểu được khoảng cách giữa một "bản nháp" (POC AI) và một hệ thống "sẵn sàng cho doanh nghiệp" (Enterprise-ready).
 - **Kết nối và trao đổi:** Nhận ra rằng các kỹ sư dù làm việc ở ngân hàng lớn hay thi đấu hackathon đều đối mặt với những vấn đề chung như: Token limit, Hallucination, và quản trị chi phí Cloud.
@@ -96,6 +97,8 @@ pre: " <b> 4.2. </b> "
 
 ### Hình Ảnh Sự Kiện
 
-![Event 2-1](/images/event2/image-1.png)
-![Event 2-2](/images/event2/image-2.png)
-![Event 2-3](/images/event2/image-3.png)
+![Hình Ảnh 1](/images/event2-1.png)
+
+![Hình Ảnh 2](/images/event2-2.png)
+
+![Hình Ảnh 3](/images/event2-3.png)

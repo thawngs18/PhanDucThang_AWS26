@@ -1,88 +1,90 @@
 ﻿---
 title: "Event 3"
 date: 2026-06-13
-weight: 1
+weight: 3
 chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# FCAJ Meetup 13/06 - Career Sharing
+# FCAJ Meetup 13/06 – Career Sharing
 
 ### Event Objectives
 
-- Chia sẻ những câu chuyện thực tế về công việc, văn hóa tại các tập đoàn Đa quốc gia (MNCs).
-- Định hướng tư duy phát triển nghề nghiệp cho sinh viên và người mới đi làm trong các lĩnh vực Data Analytics, DevOps và Cloud/AI.
-- Làm rõ bức tranh thực tế ("Expectation vs Reality") của các vị trí kỹ sư phần mềm.
-- Truyền cảm hứng về hành trình phát triển từ một sinh viên tò mò đến việc trở thành AWS Partner và những đóng góp ngược lại cho cộng đồng (Share Back).
+- Share real stories about work and culture at multinational corporations (MNCs).
+- Guide career development mindset for students and newcomers in Data Analytics, DevOps, and Cloud/AI fields.
+- Clarify the real picture ("Expectation vs Reality") of software engineering positions.
+- Inspire about the development journey from a curious student to becoming an AWS Partner and contributing back to the community.
 
 ### Speakers
 
-- **Mr. Dat Pham** – Data Analytics Engineer
-- **Mr. Cuong Nguyen** – Process Engineer
-- **Mr. Trong H. Truong** – DevOps Engineer @ Endava Vietnam
-- **Mr. Danh Hoang Hieu Nghi** – AI Engineer, AWS Community Builder, AWS Student Builder Group Leader
+- **Mr. Dat Pham** - Data Analytics Engineer
+- **Mr. Cuong Nguyen** - Process Engineer
+- **Mr. Trong H. Truong** - DevOps Engineer @ Endava Vietnam
+- **Mr. Danh Hoang Hieu Nghi** - AI Engineer, AWS Community Builder, AWS Student Builder Group Leader
 
 ### Key Highlights
 
-#### Thực tế công việc Data Analytics & Tư duy phát triển
+#### 1. Data Analytics Reality & Development Mindset (Dat Pham & Cuong Nguyen)
 
-- **Công việc thực tế:** Khác biệt tùy theo domain. Ví dụ tại Kamereo là làm báo cáo, dashboard, phân tích chỉ số kinh doanh tìm root-cause. Tại Colgate-Palmolive là tối ưu chi phí sản xuất, phân tích dữ liệu máy móc IoT.
-- **4 Kỹ năng cốt lõi:** Tư duy phản biện, Kỹ năng giao tiếp, Kể chuyện với dữ liệu (Data Storytelling) và Giải quyết vấn đề.
-- **Mô hình phát triển 5 cấp độ:** Follower → Learner → Problem Solver → System Thinker → Super Star.
-- **Văn hóa MNCs:** Quy trình tuyển dụng chuẩn mực; văn hóa "No-Blame Post-Mortem" và "Caring & Inclusive".
-- **Triết lý "Đúng Việc":** Gắn liền sự nghiệp với 3 trụ cột: Làm người (Fulfillment) - Làm nghề (Purpose & Meaningful) - Làm dân (Community & Legacy).
+- **Actual work:** Differs depending on domain. At Kamereo: reports, dashboards, business metrics analysis for root-cause. At Colgate-Palmolive: production cost optimization, IoT machine data analysis.
+- **4 Core skills:** Critical thinking, Communication skills, Data Storytelling, and Problem Solving.
+- **5-level development model:** Follower → Learner → Problem Solver → System Thinker → Super Star.
+- **MNCs culture:** Standardized recruitment process; "No-Blame Post-Mortem" culture (focus on fixing system errors, not blaming individuals) and "Caring & Inclusive".
+- **"Right Work" philosophy:** Align career with 3 pillars: Being Human (Fulfillment) - Doing Profession (Purpose & Meaningful) - Being Citizen (Community & Legacy).
 
-#### Bức tranh thực tế về DevOps
+#### 2. Real Picture of DevOps (Trong H. Truong)
 
-- **Lầm tưởng vs Thực tế:** Mọi người thường nghĩ DevOps chỉ là viết CI/CD pipeline, chạy Docker/K8s. Thực tế, DevOps phải xử lý sự cố (Incident handling), trực hệ thống (On-call), hỗ trợ môi trường, điều tra chi phí Cloud và gỡ rối (Troubleshooting).
-- **Lộ trình học tập cốt lõi:** Bắt đầu từ Fundamentals (Linux, Networking, Python/Golang) → Git & CI/CD → Containers.
-- **Kinh nghiệm xương máu:** Copy lệnh không đồng nghĩa với việc hiểu; phải luôn hỏi "Tại sao" trước khi hỏi "Làm thế nào"; DevOps không phải là làm "Anh hùng" mà là tối ưu và tự động hóa các công việc nhàm chán.
+- **Misconception vs Reality:** People think DevOps is just writing CI/CD pipelines, running Docker/K8s. In reality, DevOps must handle incidents, on-call, environment support, Cloud cost investigation, and troubleshooting.
+- **Core learning path:** Start from Fundamentals (Linux, Networking, Python/Golang) → Git & CI/CD → Containers.
+- **Hard lessons:** Copying commands doesn't mean understanding; always ask "Why" before "How"; DevOps is not about being a "Hero" but optimizing and automating boring work.
 
-#### Hành trình Cloud & Community
+#### 3. Cloud & Community Journey (Danh Hoang Hieu Nghi)
 
-- **8 bước phát triển:** Bắt đầu từ sự tò mò (Student Curiosity) → Tham gia FCAJ → Học hỏi từ cộng đồng → Thực hành (Hands-on Labs) → Áp dụng dự án trường → Xây dựng Portfolio → Trở thành AWS Partner → Share Back (Giúp đỡ thế hệ sau).
-- Sức mạnh của việc tham gia và dẫn dắt các cộng đồng như AWS Student Builder Group và AWS Community Builder trong việc nâng cao năng lực và mở rộng network.
+- **8 development steps:** From curiosity (Student Curiosity) → Join FCAJ → Learn from community → Hands-on Labs → Apply to school projects → Build Portfolio → Become AWS Partner → Share Back (Help next generation).
+- Power of participating in and leading communities like AWS Student Builder Group and AWS Community Builder in enhancing capabilities and expanding network.
 
 ### Key Takeaways
 
 #### Design & Career Mindset
 
-- **Fundamentals over Tools:** Công cụ (Tools) sẽ luôn thay đổi, nhưng nền tảng cốt lõi (Fundamentals) thì luôn giữ nguyên. Thay vì chạy theo tool mới, cần nắm chắc kiến trúc và nguyên lý hoạt động.
-- **System Thinking:** Không chỉ nhìn vào một task đơn lẻ hay một lỗi cục bộ, mà phải nhìn thấy bức tranh toàn cảnh, mối liên kết chéo giữa các bộ phận.
+- **Fundamentals over Tools:** Tools will always change, but core fundamentals remain constant. Instead of chasing new tools, master architecture and operating principles.
+- **System Thinking:** Not just looking at a single task or local error, but seeing the big picture, cross-connections between parts to optimize the system long-term.
 
-#### Technical & Soft Skills
+#### Technical Architecture & Soft Skills
 
-- Giao tiếp là một phần cực kỳ quan trọng của dân kỹ thuật. Truyền đạt ý tưởng, làm rõ ownership và kể chuyện bằng dữ liệu là yếu tố quyết định giá trị của một Engineer.
-- Biết cách sử dụng AI như một đòn bẩy để nâng cao kỹ năng, nhưng tuyệt đối "không được tắt não" khi phụ thuộc vào AI.
+- Communication is an extremely important part of technical people (whether Data or DevOps). Conveying ideas, clarifying ownership, and storytelling with data are decisive factors in an Engineer's value.
+- Know how to use AI as leverage to enhance skills, but absolutely "don't switch off your brain" when depending on AI.
 
-#### Modernization Strategy
+#### Self-Modernization Strategy
 
-- Chuyển dịch từ việc "Làm được" sang "LÀM ĐÚNG CHUẨN" (Tiêu chuẩn quốc tế khắt khe như ISO 27001, GDPR, SOC 2).
-- Luôn đặt câu hỏi tìm ra "Root Cause" thay vì chỉ chữa cháy bề mặt.
+- Shift from "Being able to do" to "Doing it RIGHT" (Strict international standards like ISO 27001, GDPR, SOC 2).
+- Always ask questions to find "Root Cause" instead of just patching the surface.
 
-### Applying to Work
+### Applying to Work & Study
 
-- **Học tập:** Tập trung build lại móng (Linux, Networking, cấu trúc dữ liệu) vững chắc trước khi nhảy vào học các Cloud providers hay Orchestration tools phức tạp.
-- **Thực hành:** Tự triển khai các project nhỏ có vòng đời đầy đủ: Deploy một app đơn giản, tự động hóa nó, monitor nó, tự làm nó "sập" và tìm cách fix.
-- **Tư duy làm việc:** Áp dụng Data Storytelling vào các báo cáo hiện tại; chuyển từ mindset "Follower" chờ giao task sang "Problem Solver", tự đề xuất giải pháp cho team.
-- **Cộng đồng:** Đăng ký tham gia các group như AWS Student/Community Builder để cập nhật kiến thức và mở rộng network thực tế.
+- **Study:** Focus on rebuilding solid foundations (Linux, Networking, Data Structures) before jumping into complex Cloud providers or Orchestration tools.
+- **Practice:** Deploy simple apps with full lifecycle: self-deploy a simple app, automate it, monitor it, make it "crash" yourself, and find ways to fix it.
+- **Work mindset:** Apply Data Storytelling to current reports; shift from "Follower" mindset waiting for tasks to "Problem Solver", proactively propose solutions for team.
+- **Community:** Register to participate in groups like AWS Student/Community Builder to update knowledge and expand practical network.
 
 ### Event Experience
 
-Tham gia FCAJ Meetup lần này là một trải nghiệm thực sự "mở mắt", giúp tôi đập tan nhiều ảo tưởng về các "buzzword" công nghệ hiện nay. Một số trải nghiệm nổi bật:
+Participating in this FCAJ Meetup was a truly "eye-opening" experience, helping me break many illusions about current technology "buzzwords". Some notable experiences:
 
-- **Học hỏi từ người đi trước:** Các diễn giả chia sẻ rất "thật" và "đời". Không vẽ ra bức tranh màu hồng về ngành IT mà chỉ rõ những khó khăn (trực đêm, cãi vã xác định lỗi của ai, áp lực chi phí cloud...).
-- **Định hướng rõ ràng:** Framework 5 cấp độ phát triển sự nghiệp giúp tôi định vị được bản thân đang ở đâu và cần bổ sung kỹ năng gì để tiến lên cấp độ tiếp theo.
-- **Nguồn năng lượng cộng đồng:** Nhìn thấy lộ trình phát triển của anh Nghị từ một sinh viên đến AWS Partner truyền cho tôi động lực to lớn về việc chia sẻ và đóng góp lại cho cộng đồng.
+- **Learning from predecessors:** Speakers shared very "real" and "practical" insights. No pink pictures painted about the IT industry, but clearly pointed out difficulties (night shifts, arguing about whose bug it was, Cloud cost pressure...).
+- **Clear direction:** The 5-level career development framework helped me position where I am and what skills I need to add (especially System Thinking) to advance to the next level.
+- **Community energy:** Seeing Mr. Nghi's development path from a student to AWS Partner gave me great motivation about sharing and contributing back to the community.
 
 ### Lessons Learned
 
-- Kỹ thuật giỏi là chưa đủ, "Thấu hiểu, đồng cảm, chân thành" và kỹ năng giao tiếp mới là thứ giúp bạn thăng tiến xa trong các tập đoàn đa quốc gia.
-- Không có đường tắt trong công nghệ. Phải hiểu rõ "Why" trước "How", và sự tò mò (Curiosity) chính là kim chỉ nam để không bị đào thải.
-- Môi trường cộng đồng (Community) là bệ phóng tốt nhất để đẩy nhanh quá trình học hỏi và trải nghiệm thực tế.
+- Good technical skills alone are not enough; "Empathy, sincerity" and communication skills are what help you advance far in multinational corporations.
+- There are no shortcuts in technology. Must understand "Why" before "How", and curiosity is the compass to avoid being eliminated.
+- Community environment is the best launchpad to accelerate learning and gain practical experience.
 
 ### Event Photos
 
-![Event 3-1](/images/event3/image-1.png)
-![Event 3-2](/images/event3/image-2.png)
-![Event 3-3](/images/event3/image-3.png)
+![Event Photo 1](/images/event3-1.png)
+
+![Event Photo 2](/images/event3-2.png)
+
+![Event Photo 3](/images/event3-3.png)

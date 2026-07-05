@@ -1,12 +1,12 @@
 ﻿---
 title: "Event 3"
 date: 2026-06-13
-weight: 1
+weight: 3
 chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# FCAJ Meetup 13/06 - Career Sharing
+# FCAJ Meetup 13/06 – Career Sharing
 
 ### Mục Đích Của Sự Kiện
 
@@ -17,33 +17,28 @@ pre: " <b> 4.3. </b> "
 
 ### Danh Sách Diễn Giả
 
-- **Mr. Dat Pham** – Data Analytics Engineer
-- **Mr. Cuong Nguyen** – Process Engineer
-- **Mr. Trong H. Truong** – DevOps Engineer @ Endava Vietnam
-- **Mr. Danh Hoang Hieu Nghi** – AI Engineer, AWS Community Builder, AWS Student Builder Group Leader
+- **Mr. Dat Pham** - Data Analytics Engineer
+- **Mr. Cuong Nguyen** - Process Engineer
+- **Mr. Trong H. Truong** - DevOps Engineer @ Endava Vietnam
+- **Mr. Danh Hoang Hieu Nghi** - AI Engineer, AWS Community Builder, AWS Student Builder Group Leader
 
 ### Nội Dung Nổi Bật
 
-#### Thực tế công việc Data Analytics & Tư duy phát triển
+#### 1. Thực tế công việc Data Analytics & Tư duy phát triển (Đạt Phạm & Cường Nguyễn)
 
 - **Công việc thực tế:** Khác biệt tùy theo domain. Ví dụ tại Kamereo là làm báo cáo, dashboard, phân tích chỉ số kinh doanh tìm root-cause. Tại Colgate-Palmolive là tối ưu chi phí sản xuất, phân tích dữ liệu máy móc IoT.
 - **4 Kỹ năng cốt lõi:** Tư duy phản biện, Kỹ năng giao tiếp, Kể chuyện với dữ liệu (Data Storytelling) và Giải quyết vấn đề.
-- **Mô hình phát triển 5 cấp độ:**
-  - *Follower* (Người thực thi)
-  - *Learner* (Người học chủ động)
-  - *Problem Solver* (Người giải quyết vấn đề)
-  - *System Thinker* (Người tư duy hệ thống)
-  - *Super Star* (Người dẫn dắt).
+- **Mô hình phát triển 5 cấp độ:** Follower (Người thực thi) → Learner (Người học chủ động) → Problem Solver (Người giải quyết vấn đề) → System Thinker (Người tư duy hệ thống) → Super Star (Người dẫn dắt).
 - **Văn hóa MNCs:** Quy trình tuyển dụng chuẩn mực; văn hóa "No-Blame Post-Mortem" (Tập trung sửa lỗi hệ thống, không đổ lỗi cá nhân) và "Caring & Inclusive".
 - **Triết lý "Đúng Việc":** Gắn liền sự nghiệp với 3 trụ cột: Làm người (Fulfillment) - Làm nghề (Purpose & Meaningful) - Làm dân (Community & Legacy).
 
-#### Bức tranh thực tế về DevOps
+#### 2. Bức tranh thực tế về DevOps (Trong H. Truong)
 
 - **Lầm tưởng vs Thực tế:** Mọi người thường nghĩ DevOps chỉ là viết CI/CD pipeline, chạy Docker/K8s. Thực tế, DevOps phải xử lý sự cố (Incident handling), trực hệ thống (On-call), hỗ trợ môi trường, điều tra chi phí Cloud và gỡ rối (Troubleshooting).
 - **Lộ trình học tập cốt lõi:** Bắt đầu từ Fundamentals (Linux, Networking, Python/Golang) → Git & CI/CD → Containers.
 - **Kinh nghiệm xương máu:** Copy lệnh không đồng nghĩa với việc hiểu; phải luôn hỏi "Tại sao" trước khi hỏi "Làm thế nào"; DevOps không phải là làm "Anh hùng" mà là tối ưu và tự động hóa các công việc nhàm chán.
 
-#### Hành trình Cloud & Community
+#### 3. Hành trình Cloud & Community (Danh Hoang Hieu Nghi)
 
 - **8 bước phát triển:** Bắt đầu từ sự tò mò (Student Curiosity) → Tham gia FCAJ → Học hỏi từ cộng đồng → Thực hành (Hands-on Labs) → Áp dụng dự án trường → Xây dựng Portfolio → Trở thành AWS Partner → Share Back (Giúp đỡ thế hệ sau).
 - Sức mạnh của việc tham gia và dẫn dắt các cộng đồng như AWS Student Builder Group và AWS Community Builder trong việc nâng cao năng lực và mở rộng network.
@@ -88,6 +83,8 @@ Tham gia FCAJ Meetup lần này là một trải nghiệm thực sự "mở mắ
 
 ### Hình Ảnh Sự Kiện
 
-![Event 3-1](/images/event3/image-1.png)
-![Event 3-2](/images/event3/image-2.png)
-![Event 3-3](/images/event3/image-3.png)
+![Hình Ảnh 1](/images/event3-1.png)
+
+![Hình Ảnh 2](/images/event3-2.png)
+
+![Hình Ảnh 3](/images/event3-3.png)

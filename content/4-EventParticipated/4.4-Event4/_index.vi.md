@@ -1,12 +1,12 @@
 ﻿---
 title: "Event 4"
 date: 2026-05-27
-weight: 1
+weight: 4
 chapter: false
 pre: " <b> 4.4. </b> "
 ---
 
-# FCAJ Community Day - June 2026
+# AWS FCAJ Community Day – June 2026 – Conference Call
 
 ### Mục Đích Của Sự Kiện
 
@@ -16,12 +16,12 @@ pre: " <b> 4.4. </b> "
 
 ### Danh Sách Diễn Giả
 
-- **Steve Tran** – Founder, Cloud Thinker
-- **Hieu Nghi & Kiet** – Renova Cloud / Student Video Group
-- **Trung Dang** – Founder & CEO, R AI
-- **Bao & Nguyen Nguyen** – Cloud Engineer, Cloud Kinetics
-- **Truong (Wayne) & Minh Anh** – AI Solution / Solution Architect, Noventiq
-- **Toan Nguyen** – AWS Security Builder
+- **Steve Trần** - Founder của Cloud Thinker.
+- **Hiếu Nghị & Kiệt** - Renova Cloud / Student Video Group.
+- **Trung Đặng** - Founder & CEO của R AI.
+- **Bảo & Nguyên Nguyễn** - Cloud Engineer đến từ Cloud Kinetics.
+- **Trường (Wayne) & Minh Anh** - AI Solution / Solution Architect đến từ Noventiq.
+- **Toàn Nguyễn** - AWS Security Builder.
 
 ### Nội Dung Nổi Bật
 
@@ -78,7 +78,8 @@ pre: " <b> 4.4. </b> "
 
 ### Trải Nghiệm Trong Event
 
-- Sự kiện là một trải nghiệm mở mang tầm mắt thực sự, giúp tôi nhận ra AI hiện nay không chỉ xoay quanh Chatbot tạo văn bản thông thường, mà đang thọc sâu vào các ngóc ngách vận hành cốt lõi (Cloud Infrastructure, DevOps, HR).
+Sự kiện là một trải nghiệm mở mang tầm mắt thực sự, giúp tôi nhận ra AI hiện nay không chỉ xoay quanh Chatbot tạo văn bản thông thường, mà đang thọc sâu vào các ngóc ngách vận hành cốt lõi (Cloud Infrastructure, DevOps, HR).
+
 - Các Live Demo trực tiếp ngay trên sân khấu (Voice Agent gọi đặt câu hỏi sản phẩm, DevOps Agent bắn request sập tải hệ thống để phân tích, Amazon Q chấm điểm CV) mang tính thuyết phục rất cao, giúp người xem dễ dàng hình dung kiến trúc ở bên dưới.
 - Có cơ hội kết nối với những con người rất tâm huyết và giàu kinh nghiệm, học hỏi tư duy xây dựng startup từ những bước đi ban đầu cho đến khi phục vụ Enterprise.
 
@@ -90,6 +91,8 @@ pre: " <b> 4.4. </b> "
 
 ### Hình Ảnh Sự Kiện
 
-![Event 4-1](/images/event4/image-1.png)
-![Event 4-2](/images/event4/image-2.png)
-![Event 4-3](/images/event4/image-3.png)
+![Hình Ảnh 1](/images/event4-1.png)
+
+![Hình Ảnh 2](/images/event4-2.png)
+
+![Hình Ảnh 3](/images/event4-3.png)
