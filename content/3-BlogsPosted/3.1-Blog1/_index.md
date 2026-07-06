@@ -1,5 +1,5 @@
 ﻿---
-title: "Software Supply Chain Security Best Practices"
+title: "Blog 1"
 date: 2026-07-06
 weight: 1
 chapter: false
