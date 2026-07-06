@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Nội dung dưới đây chỉ mang tính chất tham khảo. Bạn **không được sao chép nguyên văn** khi làm báo cáo, bao gồm cả cảnh báo này.
-{{% /notice %}}
 
 # CÁC BEST PRACTICES BẢO MẬT CHUỖI CUNG ỨNG PHẦN MỀM THEO CHUẨN AWS WELL-ARCHITECTED
 
@@ -59,7 +56,3 @@ Kết hợp Amazon GuardDuty và EventBridge để phát hiện và kích hoạt
 **Tài liệu tham khảo:** [Well-Architected Best Practices for Software Supply Chain Security](https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/)
 
 ---
-
-...Đường dẫn hình đã chuẩn bị: `/images/supply-chain-security.png`
-...Đường link đã thêm: https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/
-...Hướng dẫn: Thay thế placeholder hình ảnh phía trên bằng sơ đồ/screenshot thực tế khi có.

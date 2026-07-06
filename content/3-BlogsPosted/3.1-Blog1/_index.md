@@ -6,15 +6,12 @@ chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
 # Well-Architected Best Practices for Software Supply Chain Security
 
 ![Software Supply Chain Security](/images/supply-chain-security.png)
 
-Recent Software Supply Chain Attacks through npm Registry (Shai-Hulud, tea.xyz, axios...) are escalating rapidly. Attackers typically compromise maintainer accounts or exploit CI/CD environment misconfigurations to inject malicious code.
+Recent Software Supply Chain Attacks through npm Registry (Shai-Hulud, tea.xyz, axios...) are escalating rapidly. Attackers typically compromise maintainer accounts or exploit CI/CD environment misconfigurations to xinject malicious code.
 
 Based on the **AWS Well-Architected Security Pillar**, here are **5 core Best Practices** from the AWS Security Blog to strengthen your defense posture:
 
@@ -59,7 +56,3 @@ Combine Amazon GuardDuty and EventBridge to detect threats and trigger automated
 **Reference:** [Well-Architected Best Practices for Software Supply Chain Security](https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/)
 
 ---
-
-...Image path prepared: `/images/supply-chain-security.png`
-...Link added: https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/
-...Guide: Replace the image placeholder above with your actual diagram/screenshot when available.
