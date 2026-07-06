@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-Trong quá trình thực tập, em đã tham gia các sự kiện do cộng đồng AWS FCAJ tổ chức. Mỗi sự kiện là một trải nghiệm đáng nhớ với những kiến thức mới và cơ hội giá trị.
+Trong quá trình thực tập, em đã tham gia 4 sự kiện do cộng đồng AWS FCAJ tổ chức.
 
 ### [Event 1](4.1-Event1/)
 &emsp;**Tên sự kiện:** Kick Off AWS First Cloud AI Journey

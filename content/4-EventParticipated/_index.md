@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-During my internship, I participated in events organized by the AWS FCAJ community. Each event was a memorable experience that provided new knowledge and valuable opportunities.
+During my internship, I participated in four events organized by the AWS FCAJ community.
 
 ### [Event 1](4.1-Event1/)
 &emsp;**Event Name:** Kick Off AWS First Cloud AI Journey
