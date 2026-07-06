@@ -10,7 +10,7 @@ Danh sách các bài blog bạn đã đăng trong thời gian thực tập.
 
 | STT | Tiêu đề | Link | Ngày đăng |
 | --- | ------- | ---- | --------- |
-| 1   |         |      |           |
+| 1   | [Bảo Mật Chuỗi Cung Ứng Phần Mềm Theo Chuẩn AWS Well-Architected](3.1-Blog1/) | [3.1-Blog1](3.1-Blog1/) | 2026-07-06 |
 | 2   |         |      |           |
 | 3   |         |      |           |
 

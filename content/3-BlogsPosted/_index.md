@@ -10,7 +10,7 @@ List the blogs you published during the internship.
 
 | No. | Title | Link | Date |
 | --- | ----- | ---- | ---- |
-| 1   |       |      |      |
+| 1   | [Software Supply Chain Security Best Practices](3.1-Blog1/) | [3.1-Blog1](3.1-Blog1/) | 2026-07-06 |
 | 2   |       |      |      |
 | 3   |       |      |      |
 
