@@ -93,6 +93,3 @@ Participating in the first sessions of "First Cloud AI Journey" was an eye-openi
 
 ![Event Photo 1](/images/event1-1.png)
 
-![Event Photo 2](/images/event1-2.png)
-
-![Event Photo 3](/images/event1-3.png)

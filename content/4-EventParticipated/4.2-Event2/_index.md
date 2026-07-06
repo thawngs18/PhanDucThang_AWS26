@@ -99,6 +99,4 @@ Attending the event was an eye-opening experience, perfectly connecting the mind
 
 ![Event Photo 1](/images/event2-1.png)
 
-![Event Photo 2](/images/event2-2.png)
 
-![Event Photo 3](/images/event2-3.png)

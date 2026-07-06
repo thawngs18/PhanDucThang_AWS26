@@ -93,6 +93,3 @@ Sự kiện là một trải nghiệm mở mang tầm mắt thực sự, giúp t
 
 ![Hình Ảnh 1](/images/event4-1.png)
 
-![Hình Ảnh 2](/images/event4-2.png)
-
-![Hình Ảnh 3](/images/event4-3.png)

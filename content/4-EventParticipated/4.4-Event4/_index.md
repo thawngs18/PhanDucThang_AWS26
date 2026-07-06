@@ -93,6 +93,3 @@ The event was a truly eye-opening experience, helping me realize AI today is not
 
 ![Event Photo 1](/images/event4-1.png)
 
-![Event Photo 2](/images/event4-2.png)
-
-![Event Photo 3](/images/event4-3.png)
