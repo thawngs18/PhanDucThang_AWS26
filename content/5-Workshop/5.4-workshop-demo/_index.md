@@ -19,7 +19,7 @@ pre : " <b> 5.4 </b> "
 
 ## Demo Video
 
-> **Video Demo:** [Cloud Nexus Workshop Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+> **Video Demo:** [Cloud Nexus Workshop Demo Video](youtube.com/watch?v=j0-aYoJ2xpY&feature=youtu.be)
 
 *Video demonstration of the complete Cloud Nexus platform including:*
 - *Creating network topology*
