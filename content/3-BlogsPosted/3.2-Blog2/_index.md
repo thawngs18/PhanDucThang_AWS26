@@ -62,4 +62,6 @@ Turnkey shifts from a trust-based model to a verifiable model based on:
 
 **Reference:** [Building secure, verifiable blockchain key management on AWS Nitro Enclaves at Turnkey](https://aws.amazon.com/blogs/web3/building-secure-verifiable-blockchain-key-management-on-aws-nitro-enclaves-at-turnkey/)
 
+**Community Post:** [Facebook](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2187837505314543/?rdid=ZDVjeBLD0pJZsB9g#)
+
 ---

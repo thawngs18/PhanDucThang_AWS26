@@ -55,4 +55,6 @@ Combine Amazon GuardDuty and EventBridge to detect threats and trigger automated
 
 **Reference:** [Well-Architected Best Practices for Software Supply Chain Security](https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/)
 
+**Community Post:** [Facebook](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2179514172813543/?rdid=amgNjd5p5RIQ4i5L#)
+
 ---

@@ -55,4 +55,6 @@ Từ đó, Agent đề xuất các giải pháp mang tính kiến trúc: tinh ch
 
 **Tài liệu tham khảo:** [How AWS DevOps Agent uses multi-agent reasoning to find root causes](https://aws.amazon.com/blogs/devops/how-aws-devops-agent-uses-multi-agent-reasoning-to-find-root-causes/)
 
+**Bài đăng cộng đồng:** [Facebook](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2202671100497850/?rdid=wvd52YPCwud2Ob9n#)
+
 ---

@@ -55,4 +55,6 @@ Kết hợp Amazon GuardDuty và EventBridge để phát hiện và kích hoạt
 
 **Tài liệu tham khảo:** [Well-Architected Best Practices for Software Supply Chain Security](https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/)
 
+**Bài đăng cộng đồng:** [Facebook](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2179514172813543/?rdid=amgNjd5p5RIQ4i5L#)
+
 ---
