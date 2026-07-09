@@ -1,11 +1,11 @@
 ---
 title : "Build Lambda Layer"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 7
 chapter : false
 pre : " <b> Step 7 </b> "
 ---
-# Step 7: Build Lambda Layer
+
 
 ---
 
@@ -92,24 +92,7 @@ python/websockets/speedups.cpython-312-aarch64-linux-gnu.so
 
 ---
 
-## Hướng Dẫn Chụp Ảnh Xác Minh
+![Screenshot](/images/5-Workshop/step-7.png)
 
-📸 **Ảnh 1: Xác Minh .so Files**
 
-**Cách chụp:**
-1. Chạy lệnh xác minh để liệt kê các file .so
-2. Chụp ảnh hiển thị tất cả native extension files
 
-**Cần xác minh:**
-- Files là `cpython-312` (Python 3.12)
-- Architecture là `aarch64` (ARM64)
-
----
-
-📸 **Ảnh 2: Layer Đã Publish Thành Công**
-
-**Cách chụp:**
-1. Chạy `aws lambda publish-layer-version`
-2. Chụp ảnh LayerVersionArn output
-
-**Kết quả mong đợi:** ARN format `arn:aws:lambda:ap-southeast-1:<ACCOUNT>:layer:CloudNexus-PythonDeps:1`

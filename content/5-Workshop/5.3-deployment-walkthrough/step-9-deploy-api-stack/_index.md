@@ -1,11 +1,11 @@
 ---
 title : "Deploy API Stack"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 9
 chapter : false
 pre : " <b> Step 9 </b> "
 ---
-# Step 9: Deploy API Stack
+
 
 ---
 
@@ -29,7 +29,7 @@ cdk deploy CloudNexus-Backend --require-approval never
 ```
 ✅  CloudNexus-Backend
 Outputs:
-  CloudNexus-Backend.ApiUrl = https://<API_ID>.execute-api.ap-southeast-1.amazonaws.com/prod/
+  CloudNexus-Backend.ApiUrl = https://<API_ID>.execute-api.us-east-1.amazonaws.com/prod/
   CloudNexus-Backend.FunctionName = CloudNexus-BackendHandler-<SUFFIX>
 ```
 
@@ -46,42 +46,4 @@ Outputs:
 
 ---
 
-## Screenshot Verification Guide
-
-📸 **Screenshot 1: CDK Deploy API Stack Output**
-
-**How to capture:**
-1. Run the deploy command
-2. Screenshot the success output with Outputs
-
-**What to verify:**
-- ✅ checkmark for CloudNexus-Backend
-- API URL is displayed
-
----
-
-📸 **Screenshot 2: API Gateway in AWS Console**
-
-**How to capture:**
-1. Go to AWS Console → API Gateway
-2. Find your API
-3. Screenshot the API details page
-
-**What to verify:**
-- API type: HTTP API
-- Stages: prod
-- Routes: /api/*
-
----
-
-📸 **Screenshot 3: Lambda Function in AWS Console**
-
-**How to capture:**
-1. Go to AWS Console → Lambda
-2. Find `CloudNexus-BackendHandler`
-3. Screenshot the function configuration
-
-**What to verify:**
-- Runtime: Python 3.12
-- Memory: 512 MB
-- Layers: CloudNexus-PythonDeps attached
+![Screenshot](/images/5-Workshop/step-9.png)

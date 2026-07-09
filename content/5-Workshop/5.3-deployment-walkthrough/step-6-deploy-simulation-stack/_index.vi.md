@@ -1,11 +1,11 @@
 ---
 title : "Deploy Simulation Stack"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 6
 chapter : false
 pre : " <b> Step 6 </b> "
 ---
-# Step 6: Deploy Simulation Stack
+
 
 ---
 
@@ -29,9 +29,9 @@ cdk deploy CloudNexus-Simulation --require-approval never
 ```
 ✅  CloudNexus-Simulation
 Outputs:
-  CloudNexusSimulationStack.ResultBucketName = cloudnexus-results-<ACCOUNT_ID>-ap-southeast-1
-  CloudNexusSimulationStack.StateMachineArn = arn:aws:states:ap-southeast-1:<ACCOUNT_ID>:stateMachine:CloudNexus-SimOrchestrator
-  CloudNexusSimulationStack.AlertTopicArn = arn:aws:sns:ap-southeast-1:<ACCOUNT_ID>:CloudNexus-Alerts
+  CloudNexusSimulationStack.ResultBucketName = cloudnexus-results-<ACCOUNT_ID>-us-east-1
+  CloudNexusSimulationStack.StateMachineArn = arn:aws:states:us-east-1:<ACCOUNT_ID>:stateMachine:CloudNexus-SimOrchestrator
+  CloudNexusSimulationStack.AlertTopicArn = arn:aws:sns:us-east-1:<ACCOUNT_ID>:CloudNexus-Alerts
 ```
 
 ---
@@ -48,27 +48,4 @@ Outputs:
 
 ---
 
-## Hướng Dẫn Chụp Ảnh Xác Minh
-
-📸 **Ảnh 1: CDK Deploy Output**
-
-**Cách chụp:**
-1. Chạy lệnh deploy
-2. Chụp ảnh output thành công với Outputs
-
-**Cần xác minh:**
-- ✅ dấu tích cho CloudNexus-Simulation
-- CloudFormation outputs được hiển thị
-
----
-
-📸 **Ảnh 2: CloudFormation Stack (AWS Console)**
-
-**Cách chụp:**
-1. Vào AWS Console → CloudFormation
-2. Tìm stack `CloudNexus-Simulation`
-3. Chụp ảnh trạng thái stack
-
-**Cần xác minh:**
-- Trạng thái stack: CREATE_COMPLETE
-- Tab Resources hiển thị tất cả services
+![Screenshot](/images/5-Workshop/step-6.png)

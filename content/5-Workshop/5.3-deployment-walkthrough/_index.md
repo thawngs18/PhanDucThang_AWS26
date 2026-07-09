@@ -1,11 +1,10 @@
 ---
-title : "Deployment & Lab Walkthrough"
-date : "2025-10-10"
+title : "Deployment"
+date : "2026-07-09"
 weight : 3
 chapter : false
 pre : " <b> 5.3 </b> "
 ---
-# 5.3. Deployment & Lab Walkthrough
 
 ---
 
@@ -32,42 +31,3 @@ pre : " <b> 5.3 </b> "
 
 ---
 
-## Deployed Infrastructure Summary
-
-| Component | Status | URL/ARN |
-|-----------|--------|---------|
-| **Frontend** | Deployed | https://d3rs3evkmfvesp.cloudfront.net/ |
-| **API Gateway** | Deployed | `https://<api-id>.execute-api.<region>.amazonaws.com/prod/` |
-| **Lambda** | Deployed | `CloudNexus-Backend-<suffix>` |
-| **S3 Bucket** | Deployed | `CloudNexus-Frontend-<suffix>` |
-| **CloudFront** | Deployed | `d3rs3evkmfvesp.cloudfront.net` |
-
----
-
-## Quick Verification Commands
-
-### Check CloudFront Frontend
-
-```powershell
-# Open in browser
-Start-Process "https://d3rs3evkmfvesp.cloudfront.net/"
-
-# Or verify via curl
-curl -s -I "https://d3rs3evkmfvesp.cloudfront.net/" | Select-String "HTTP/"
-```
-
-### Check API Gateway Health
-
-```powershell
-# Get API URL from CloudFormation
-$apiUrl = aws cloudformation describe-stacks --stack-name CloudNexus-Backend --query "Stacks[0].Outputs[?OutputKey=='ApiUrl'].OutputValue" --output text
-
-# Test health endpoint
-curl -s "$apiUrl/api/health"
-```
-
-### Check Lambda Functions
-
-```powershell
-aws lambda list-functions --query "Functions[?contains(FunctionName,'CloudNexus')].FunctionName"
-```

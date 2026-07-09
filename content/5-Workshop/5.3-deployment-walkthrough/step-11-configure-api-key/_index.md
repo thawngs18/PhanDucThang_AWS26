@@ -1,6 +1,6 @@
 ---
 title : "Configure Google API Key"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 11
 chapter : false
 pre : " <b> Step 11 </b> "
@@ -56,26 +56,5 @@ aws lambda get-function-configuration --function-name CloudNexus-BackendHandler-
 ```
 
 ---
+![Screenshot](/images/5-Workshop/step-11.png)
 
-## Screenshot Verification Guide
-
-📸 **Screenshot 1: Secrets Manager in AWS Console**
-
-**How to capture:**
-1. Go to AWS Console → Secrets Manager
-2. Find `cloud-nexus/google-api-key`
-3. Screenshot the secret details
-
-**What to verify:**
-- Secret exists
-- No plaintext key visible (it should be masked)
-
----
-
-📸 **Screenshot 2: API Key Push Success**
-
-**How to capture:**
-1. Run `.\scripts\push-secret.ps1`
-2. Screenshot the success output
-
-**Expected result:** "Secret uploaded successfully" message

@@ -1,11 +1,11 @@
 ---
 title : "Kiến Trúc & Thiết Kế Kỹ Thuật"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 2
 chapter : false
 pre : " <b> 5.2 </b> "
 ---
-# 5.2. Kiến Trúc & Thiết Kế Kỹ Thuật
+
 
 ---
 
@@ -153,3 +153,4 @@ $ help
 | Secrets Manager | - | ~$0.40/tháng |
 
 **Tổng chi phí ước tính cho dev/testing:** < $1/tháng (trong free tiers)
+

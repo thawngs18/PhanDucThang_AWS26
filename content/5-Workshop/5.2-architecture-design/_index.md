@@ -1,11 +1,11 @@
 ---
 title : "Architecture & Technical Design"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 2
 chapter : false
 pre : " <b> 5.2 </b> "
 ---
-# 5.2. Architecture & Technical Design
+
 
 ---
 
@@ -153,3 +153,4 @@ $ help
 | Secrets Manager | - | ~$0.40/mo |
 
 **Total estimated cost for dev/testing:** < $1/month (within free tiers)
+

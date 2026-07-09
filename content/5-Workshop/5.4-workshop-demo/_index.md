@@ -1,6 +1,6 @@
 ---
 title : "Workshop Demo & Video"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 4
 chapter : false
 pre : " <b> 5.4 </b> "
@@ -151,3 +151,4 @@ Get AI-powered recommendations for securing the network.
 | Generate | `generate simple network` | Topology JSON |
 | Scan | `scan` | Attack scenarios |
 | Validate | POST `/api/topology/validate` | Validation result |
+

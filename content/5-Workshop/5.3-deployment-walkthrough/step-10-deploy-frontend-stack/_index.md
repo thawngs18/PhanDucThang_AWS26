@@ -1,11 +1,11 @@
 ---
 title : "Deploy Frontend Stack"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 10
 chapter : false
 pre : " <b> Step 10 </b> "
 ---
-# Step 10: Deploy Frontend Stack
+
 
 ---
 
@@ -50,30 +50,4 @@ self.frontend_bucket = Bucket(self, 'FrontendBucket',
 )
 ```
 
----
-
-## Screenshot Verification Guide
-
-📸 **Screenshot 1: CDK Deploy Frontend Stack Output**
-
-**How to capture:**
-1. Run the deploy command
-2. Screenshot the success output
-
-**What to verify:**
-- ✅ checkmark for CloudNexus-Frontend
-- CloudFront URL is displayed
-
----
-
-📸 **Screenshot 2: CloudFront Distribution in AWS Console**
-
-**How to capture:**
-1. Go to AWS Console → CloudFront
-2. Find your distribution
-3. Screenshot the distribution details
-
-**What to verify:**
-- Status: Deployed
-- Alternate Domain Name: d3rs3evkmfvesp.cloudfront.net
-- Origin: S3 bucket
+![Screenshot](/images/5-Workshop/step-10.png)

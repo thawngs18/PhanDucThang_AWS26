@@ -1,11 +1,11 @@
 ---
 title : "Deploy Simulation Stack"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 6
 chapter : false
 pre : " <b> Step 6 </b> "
 ---
-# Step 6: Deploy Simulation Stack
+
 
 ---
 
@@ -29,9 +29,9 @@ cdk deploy CloudNexus-Simulation --require-approval never
 ```
 ✅  CloudNexus-Simulation
 Outputs:
-  CloudNexusSimulationStack.ResultBucketName = cloudnexus-results-<ACCOUNT_ID>-ap-southeast-1
-  CloudNexusSimulationStack.StateMachineArn = arn:aws:states:ap-southeast-1:<ACCOUNT_ID>:stateMachine:CloudNexus-SimOrchestrator
-  CloudNexusSimulationStack.AlertTopicArn = arn:aws:sns:ap-southeast-1:<ACCOUNT_ID>:CloudNexus-Alerts
+  CloudNexusSimulationStack.ResultBucketName = cloudnexus-results-<ACCOUNT_ID>-us-east-1
+  CloudNexusSimulationStack.StateMachineArn = arn:aws:states:us-east-1:<ACCOUNT_ID>:stateMachine:CloudNexus-SimOrchestrator
+  CloudNexusSimulationStack.AlertTopicArn = arn:aws:sns:us-east-1:<ACCOUNT_ID>:CloudNexus-Alerts
 ```
 
 ---
@@ -48,27 +48,9 @@ Outputs:
 
 ---
 
-## Screenshot Verification Guide
+![Screenshot](/images/5-Workshop/step-6.png)
 
-📸 **Screenshot 1: CDK Deploy Output**
 
-**How to capture:**
-1. Run the deploy command
-2. Screenshot the success output with Outputs
 
-**What to verify:**
-- ✅ checkmark for CloudNexus-Simulation
-- CloudFormation outputs displayed
 
----
 
-📸 **Screenshot 2: CloudFormation Stack (AWS Console)**
-
-**How to capture:**
-1. Go to AWS Console → CloudFormation
-2. Find `CloudNexus-Simulation` stack
-3. Screenshot the stack status
-
-**What to verify:**
-- Stack status: CREATE_COMPLETE
-- Resources tab shows all services

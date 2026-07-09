@@ -1,11 +1,11 @@
 ---
 title : "Build Lambda Layer"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 7
 chapter : false
 pre : " <b> Step 7 </b> "
 ---
-# Step 7: Build Lambda Layer
+
 
 ---
 
@@ -91,25 +91,5 @@ python/websockets/speedups.cpython-312-aarch64-linux-gnu.so
 ```
 
 ---
+![Screenshot](/images/5-Workshop/step-7.png)
 
-## Screenshot Verification Guide
-
-📸 **Screenshot 1: .so Files Verification**
-
-**How to capture:**
-1. Run the verification command to list .so files
-2. Screenshot showing all native extension files
-
-**What to verify:**
-- Files are `cpython-312` (Python 3.12)
-- Architecture is `aarch64` (ARM64)
-
----
-
-📸 **Screenshot 2: Layer Published Successfully**
-
-**How to capture:**
-1. Run `aws lambda publish-layer-version`
-2. Screenshot the LayerVersionArn output
-
-**Expected result:** ARN in format `arn:aws:lambda:ap-southeast-1:<ACCOUNT>:layer:CloudNexus-PythonDeps:1`

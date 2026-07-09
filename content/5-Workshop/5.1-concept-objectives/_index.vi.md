@@ -1,11 +1,11 @@
 ---
 title : "Ý Tưởng & Mục Tiêu"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 1
 chapter : false
 pre : " <b> 5.1 </b> "
 ---
-# 5.1. Ý Tưởng & Mục Tiêu
+
 
 ---
 
@@ -64,3 +64,4 @@ pre : " <b> 5.1 </b> "
 - **Bảo mật:** Secrets Manager, IAM roles, không hardcode credentials
 - **Tối ưu chi phí:** Free tier cho service cốt lõi, pay-per-use
 - **Phân phối toàn cầu:** CloudFront CDN với HTTPS
+

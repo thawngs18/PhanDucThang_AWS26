@@ -1,6 +1,6 @@
 ---
 title : "Workshop"
-date :  "2025-10-10" 
+date :  "2026-07-09" 
 weight : 5 
 chapter : false
 pre: " <b> 5. </b> "
@@ -9,11 +9,6 @@ pre: " <b> 5. </b> "
 
 ---
 
-## Demo Trực Tiếp
-
-**Trải nghiệm ngay:** [https://d3rs3evkmfvesp.cloudfront.net/](https://d3rs3evkmfvesp.cloudfront.net/)
-
----
 
 ## Tổng Quan
 

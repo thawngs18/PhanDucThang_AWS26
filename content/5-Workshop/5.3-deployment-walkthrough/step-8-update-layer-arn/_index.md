@@ -1,11 +1,11 @@
 ---
 title : "Update Layer ARN in CDK"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 8
 chapter : false
 pre : " <b> Step 8 </b> "
 ---
-# Step 8: Update Layer ARN in CDK
+
 
 ---
 
@@ -26,24 +26,11 @@ notepad C:\Users\ADMIN\Desktop\BC\DEMO\infrastructure\stacks\backend_stack.py
 Find this line:
 
 ```python
-layer_arn = 'arn:aws:lambda:ap-southeast-1:<ACCOUNT_ID>:layer:CloudNexus-PythonDeps:1'
+layer_arn = 'arn:aws:lambda:us-east-1:<ACCOUNT_ID>:layer:CloudNexus-PythonDeps:1'
 ```
 
 Update the version number at the end (e.g., `:1`, `:2`, `:3`, `:4`) depending on how many times you published the layer.
 
 ---
 
-## Screenshot Verification Guide
 
-📸 **Screenshot 1: Layer ARN in Code**
-
-**How to capture:**
-1. Open `backend_stack.py` in your editor
-2. Find the `layer_arn` line
-3. Screenshot showing the ARN with correct version number
-
-**What to verify:**
-- ARN ends with `:1` (or appropriate version number)
-- Account ID is correct
-
-**Expected result:** Code showing the Layer ARN with version matching the published layer

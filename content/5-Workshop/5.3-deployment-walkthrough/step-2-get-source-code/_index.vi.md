@@ -1,11 +1,11 @@
 ---
 title : "Tải mã nguồn"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 2
 chapter : false
 pre : " <b> Step 2 </b> "
 ---
-# Step 2: Tải Mã Nguồn
+
 
 ---
 
@@ -55,14 +55,4 @@ DEMO/
 
 ---
 
-## Hướng Dẫn Chụp Ảnh Xác Minh
-
-📸 **Ảnh 1: Cấu Trúc Thư Mục Dự Án**
-
-**Cách chụp:**
-1. Mở PowerShell
-2. Di chuyển đến thư mục `DEMO`
-3. Chạy `Get-ChildItem -Directory`
-4. Chụp ảnh màn hình danh sách thư mục
-
-**Kết quả mong đợi:** Bạn sẽ thấy các thư mục như `src`, `backend`, `infrastructure`, `scripts`, `dist`.
+![Screenshot](/static/images/5-Workshop/step-2.png)

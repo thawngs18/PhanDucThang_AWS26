@@ -1,6 +1,6 @@
 ---
 title : "Cấu hình Google API Key"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 11
 chapter : false
 pre : " <b> Step 11 </b> "
@@ -57,25 +57,9 @@ aws lambda get-function-configuration --function-name CloudNexus-BackendHandler-
 
 ---
 
-## Hướng Dẫn Chụp Ảnh Xác Minh
 
-📸 **Ảnh 1: Secrets Manager trong AWS Console**
+![Screenshot](/images/5-Workshop/step-11.png)
 
-**Cách chụp:**
-1. Vào AWS Console → Secrets Manager
-2. Tìm `cloud-nexus/google-api-key`
-3. Chụp ảnh chi tiết secret
 
-**Cần xác minh:**
-- Secret tồn tại
-- Key không hiển thị dạng plaintext (nên được ẩn)
 
----
 
-📸 **Ảnh 2: API Key Push Thành Công**
-
-**Cách chụp:**
-1. Chạy `.\scripts\push-secret.ps1`
-2. Chụp ảnh output thành công
-
-**Kết quả mong đợi:** Thông báo "Secret uploaded successfully"

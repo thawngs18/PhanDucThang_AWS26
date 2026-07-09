@@ -1,11 +1,10 @@
 ---
 title : "Điều kiện tiên quyết"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 0
 chapter : false
 pre : " <b> Step 0 </b> "
 ---
-# Step 0: Điều Kiện Tiên Quyết
 
 ---
 
@@ -14,7 +13,7 @@ pre : " <b> Step 0 </b> "
 | Công cụ | Yêu cầu | Cài đặt |
 |---------|---------|---------|
 | AWS Account | Active | [Đăng ký AWS](https://aws.amazon.com) |
-| Region | `ap-southeast-1` | Chọn trong AWS Console |
+| Region | `us-east-1` | Chọn trong AWS Console |
 | AWS CLI | v2.x | `winget install Amazon.AWSCLI` |
 | Node.js | v18+ | `winget install OpenJS.NodeJS.LTS` |
 | Python | 3.12 | `winget install Python.Python.3.12` |
@@ -37,16 +36,7 @@ python --version
 
 ---
 
-## Hướng Dẫn Chụp Ảnh Xác Minh
-
-**Ảnh 1: Xác minh công cụ đã cài đặt**
-
-📸 **Cách chụp:**
-1. Mở terminal PowerShell
-2. Chạy từng lệnh bên trên
-3. Chụp ảnh màn hình hiển thị tất cả các version outputs
-
-**Kết quả mong đợi:** Tất cả công cụ hiển thị số version mà không có lỗi.
+![Screenshot](/static/images/5-Workshop/step-0.png)
 
 ---
 
@@ -73,3 +63,4 @@ python --version
 ## Chi Phí Ước Tính
 
 > Tất cả service trong bài đều nằm trong AWS Free Tier hoặc chi phí rất thấp (< $1/tháng nếu không sử dụng nhiều).
+

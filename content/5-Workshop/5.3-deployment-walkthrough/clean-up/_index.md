@@ -1,11 +1,11 @@
 ---
 title : "Clean Up Resources"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 13
 chapter : false
 pre : " <b> Clean Up </b> "
 ---
-# Clean Up Resources
+
 
 ---
 
@@ -41,7 +41,7 @@ aws s3 ls | Select-String "cloudnexus"
 
 # Delete buckets
 aws s3 rb s3://cloudnexus-frontend-<SUFFIX> --force
-aws s3 rb s3://cloudnexus-results-<ACCOUNT>-ap-southeast-1 --force
+aws s3 rb s3://cloudnexus-results-<ACCOUNT>-us-east-1 --force
 ```
 
 ---
@@ -74,29 +74,11 @@ aws logs delete-log-group --log-group-name /aws/lambda/CloudNexus-BackendHandler
 ## Step 6: Delete CDK Bootstrap (Optional)
 
 ```powershell
-aws s3 rb s3://cdk-hnb659fds-assets-<ACCOUNT>-ap-southeast-1 --force
+aws s3 rb s3://cdk-hnb659fds-assets-<ACCOUNT>-us-east-1 --force
 aws cloudformation delete-stack --stack-name CDKToolkit
 ```
 
 ---
 
-## Screenshot Verification Guide
 
-📸 **Screenshot 1: CDK Destroy Success**
 
-**How to capture:**
-1. Run `cdk destroy --all --force`
-2. Screenshot the destruction output
-
-**Expected result:** All stacks show "destroyed" with ✅ checkmarks
-
----
-
-📸 **Screenshot 2: Verify No Resources Remain**
-
-**How to capture:**
-1. Go to AWS Console
-2. Check CloudFormation, Lambda, S3, CloudFront
-3. Screenshot showing no CloudNexus resources
-
-**Expected result:** No CloudNexus-named resources found

@@ -1,11 +1,11 @@
 ---
 title : "Cài Dependencies CDK"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 4
 chapter : false
 pre : " <b> Step 4 </b> "
 ---
-# Step 4: Cài Dependencies CDK
+
 
 ---
 
@@ -17,14 +17,5 @@ pip install -r requirements.txt
 ```
 
 ---
+![Screenshot](/static/images/5-Workshop/step-4.png)
 
-## Hướng Dẫn Chụp Ảnh Xác Minh
-
-📸 **Ảnh 1: pip install CDK dependencies**
-
-**Cách chụp:**
-1. Di chuyển đến thư mục `infrastructure`
-2. Chạy `pip install -r requirements.txt`
-3. Chụp ảnh output cài đặt
-
-**Kết quả mong đợi:** Cài đặt thành công các thư viện AWS CDK

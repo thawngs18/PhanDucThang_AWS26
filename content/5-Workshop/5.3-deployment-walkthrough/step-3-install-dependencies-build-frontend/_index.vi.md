@@ -1,11 +1,11 @@
 ---
 title : "Cài Dependencies & Build Frontend"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 3
 chapter : false
 pre : " <b> Step 3 </b> "
 ---
-# Step 3: Cài Dependencies & Build Frontend
+
 
 ---
 
@@ -54,22 +54,5 @@ Test-Path dist/index.html
 
 ---
 
-## Hướng Dẫn Chụp Ảnh Xác Minh
+![Screenshot](/static/images/5-Workshop/step-3.png)
 
-📸 **Ảnh 1: npm install hoàn thành**
-
-**Cách chụp:**
-1. Chạy `npm install` trong thư mục DEMO
-2. Chụp ảnh terminal hiển thị cài đặt thành công
-
-**Kết quả mong đợi:** Thông báo "audited XXX packages"
-
----
-
-📸 **Ảnh 2: npm run build hoàn thành**
-
-**Cách chụp:**
-1. Chạy `npm run build`
-2. Chụp ảnh output hiển thị thư mục dist/ được tạo
-
-**Kết quả mong đợi:** Build output với thư mục `dist/` chứa `index.html`

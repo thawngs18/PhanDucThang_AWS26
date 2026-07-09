@@ -1,11 +1,10 @@
 ---
-title : "Triển Khai & Lab Step-by-Step"
-date : "2025-10-10"
+title : "Triển Khai"
+date : "2026-07-09"
 weight : 3
 chapter : false
 pre : " <b> 5.3 </b> "
 ---
-# 5.3. Triển Khai & Lab Step-by-Step
 
 ---
 
@@ -32,42 +31,4 @@ pre : " <b> 5.3 </b> "
 
 ---
 
-## Tổng Quan Hạ Tầng Đã Deploy
 
-| Thành phần | Trạng thái | URL/ARN |
-|-----------|-----------|---------|
-| **Frontend** | Đã deploy | https://d3rs3evkmfvesp.cloudfront.net/ |
-| **API Gateway** | Đã deploy | `https://<api-id>.execute-api.<region>.amazonaws.com/prod/` |
-| **Lambda** | Đã deploy | `CloudNexus-Backend-<suffix>` |
-| **S3 Bucket** | Đã deploy | `CloudNexus-Frontend-<suffix>` |
-| **CloudFront** | Đã deploy | `d3rs3evkmfvesp.cloudfront.net` |
-
----
-
-## Các Lệnh Xác Minh Nhanh
-
-### Kiểm Tra CloudFront Frontend
-
-```powershell
-# Mở trên trình duyệt
-Start-Process "https://d3rs3evkmfvesp.cloudfront.net/"
-
-# Hoặc verify qua curl
-curl -s -I "https://d3rs3evkmfvesp.cloudfront.net/" | Select-String "HTTP/"
-```
-
-### Kiểm Tra API Gateway Health
-
-```powershell
-# Lấy API URL từ CloudFormation
-$apiUrl = aws cloudformation describe-stacks --stack-name CloudNexus-Backend --query "Stacks[0].Outputs[?OutputKey=='ApiUrl'].OutputValue" --output text
-
-# Test health endpoint
-curl -s "$apiUrl/api/health"
-```
-
-### Kiểm Tra Lambda Functions
-
-```powershell
-aws lambda list-functions --query "Functions[?contains(FunctionName,'CloudNexus')].FunctionName"
-```

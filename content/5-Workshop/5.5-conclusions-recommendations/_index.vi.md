@@ -1,6 +1,6 @@
 ---
 title : "Kết Luận & Khuyến Nghị"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 5
 chapter : false
 pre : " <b> 5.5 </b> "
@@ -132,3 +132,4 @@ Dự án thể hiện các practices phát triển cloud hiện đại bao gồm
 ## Demo Trực Tiếp
 
 **Truy cập ứng dụng đã deploy:** [https://d3rs3evkmfvesp.cloudfront.net/](https://d3rs3evkmfvesp.cloudfront.net/)
+

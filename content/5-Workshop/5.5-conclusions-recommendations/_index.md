@@ -1,6 +1,6 @@
 ---
 title : "Conclusions & Recommendations"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 5
 chapter : false
 pre : " <b> 5.5 </b> "
@@ -132,3 +132,4 @@ The project showcases modern cloud development practices including Infrastructur
 ## Live Demo
 
 **Access the deployed application:** [https://d3rs3evkmfvesp.cloudfront.net/](https://d3rs3evkmfvesp.cloudfront.net/)
+

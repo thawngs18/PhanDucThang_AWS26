@@ -1,11 +1,10 @@
 ---
 title : "Dọn dẹp tài nguyên"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 13
 chapter : false
 pre : " <b> Clean Up </b> "
 ---
-# Dọn Dẹp Tài Nguyên
 
 ---
 
@@ -41,7 +40,7 @@ aws s3 ls | Select-String "cloudnexus"
 
 # Xóa buckets
 aws s3 rb s3://cloudnexus-frontend-<SUFFIX> --force
-aws s3 rb s3://cloudnexus-results-<ACCOUNT>-ap-southeast-1 --force
+aws s3 rb s3://cloudnexus-results-<ACCOUNT>-us-east-1 --force
 ```
 
 ---
@@ -74,29 +73,8 @@ aws logs delete-log-group --log-group-name /aws/lambda/CloudNexus-BackendHandler
 ## Bước 6: Xóa CDK Bootstrap (Tùy chọn)
 
 ```powershell
-aws s3 rb s3://cdk-hnb659fds-assets-<ACCOUNT>-ap-southeast-1 --force
+aws s3 rb s3://cdk-hnb659fds-assets-<ACCOUNT>-us-east-1 --force
 aws cloudformation delete-stack --stack-name CDKToolkit
 ```
 
 ---
-
-## Hướng Dẫn Chụp Ảnh Xác Minh
-
-📸 **Ảnh 1: CDK Destroy Thành Công**
-
-**Cách chụp:**
-1. Chạy `cdk destroy --all --force`
-2. Chụp ảnh output destruction
-
-**Kết quả mong đợi:** Tất cả stacks hiển thị "destroyed" với ✅ dấu tích
-
----
-
-📸 **Ảnh 2: Xác Minh Không Còn Tài Nguyên**
-
-**Cách chụp:**
-1. Vào AWS Console
-2. Kiểm tra CloudFormation, Lambda, S3, CloudFront
-3. Chụp ảnh cho thấy không còn CloudNexus resources
-
-**Kết quả mong đợi:** Không tìm thấy tài nguyên nào có tên CloudNexus

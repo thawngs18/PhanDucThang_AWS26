@@ -1,11 +1,11 @@
 ---
 title : "Deploy Frontend Stack"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 10
 chapter : false
 pre : " <b> Step 10 </b> "
 ---
-# Step 10: Deploy Frontend Stack
+
 
 ---
 
@@ -50,30 +50,8 @@ self.frontend_bucket = Bucket(self, 'FrontendBucket',
 )
 ```
 
----
 
-## Hướng Dẫn Chụp Ảnh Xác Minh
+![Screenshot](/images/5-Workshop/step-10.png)
 
-📸 **Ảnh 1: CDK Deploy Frontend Stack Output**
 
-**Cách chụp:**
-1. Chạy lệnh deploy
-2. Chụp ảnh output thành công
 
-**Cần xác minh:**
-- ✅ dấu tích cho CloudNexus-Frontend
-- CloudFront URL được hiển thị
-
----
-
-📸 **Ảnh 2: CloudFront Distribution trong AWS Console**
-
-**Cách chụp:**
-1. Vào AWS Console → CloudFront
-2. Tìm distribution của bạn
-3. Chụp ảnh chi tiết distribution
-
-**Cần xác minh:**
-- Status: Deployed
-- Alternate Domain Name: d3rs3evkmfvesp.cloudfront.net
-- Origin: S3 bucket

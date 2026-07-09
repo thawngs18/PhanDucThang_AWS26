@@ -1,11 +1,11 @@
 ---
 title : "Get Source Code"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 2
 chapter : false
 pre : " <b> Step 2 </b> "
 ---
-# Step 2: Get Source Code
+
 
 ---
 
@@ -54,15 +54,4 @@ DEMO/
 ```
 
 ---
-
-## Screenshot Verification Guide
-
-📸 **Screenshot 1: Project Directory Structure**
-
-**How to capture:**
-1. Open PowerShell
-2. Navigate to `DEMO` folder
-3. Run `Get-ChildItem -Directory`
-4. Screenshot the directory listing
-
-**Expected result:** You should see folders like `src`, `backend`, `infrastructure`, `scripts`, `dist`.
+![Screenshot](/static/images/5-Workshop/step-2.png)

@@ -1,6 +1,6 @@
 ---
 title : "Concept & Objectives"
-date : "2025-10-10"
+date : "2026-07-09"
 weight : 1
 chapter : false
 pre : " <b> 5.1 </b> "
@@ -8,8 +8,6 @@ pre : " <b> 5.1 </b> "
 # 5.1. Concept & Objectives
 
 ---
-
-## Context & Problem Statement
 
 **Cloud Nexus** is a Threat Modeling Platform designed for cybersecurity professionals and infrastructure architects. It provides a visual, interactive environment where users can design network topologies by dragging and dropping components, then leverage AI (Google Gemini) to automatically analyze security vulnerabilities, simulate potential attack paths, and receive actionable defense recommendations.
 
@@ -64,3 +62,4 @@ pre : " <b> 5.1 </b> "
 - **Security:** Secrets Manager, IAM roles, no hardcoded credentials
 - **Cost Optimization:** Free tier for core services, pay-per-use
 - **Global Delivery:** CloudFront CDN with HTTPS
+
