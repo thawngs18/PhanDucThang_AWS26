@@ -55,4 +55,4 @@ DEMO/
 
 ---
 
-![Screenshot](/static/images/5-Workshop/step-2.png)
+![Screenshot](/images/5-Workshop/step-2.png)

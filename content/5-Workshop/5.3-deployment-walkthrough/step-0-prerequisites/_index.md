@@ -36,7 +36,7 @@ python --version
 
 ---
 
-![Screenshot](/static/images/5-Workshop/step-0.png)
+![Screenshot](/images/5-Workshop/step-0.png)
 
 ---
 
