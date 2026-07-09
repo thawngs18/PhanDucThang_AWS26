@@ -1,11 +1,11 @@
 ---
 title : "Kết Luận & Khuyến Nghị"
-date : "2026-07-09"
+date : "2025-10-10"
 weight : 5
 chapter : false
 pre : " <b> 5.5 </b> "
 ---
-# 5.5. Kết Luận & Khuyến Nghị
+
 
 ---
 
@@ -128,8 +128,3 @@ Dự án thể hiện các practices phát triển cloud hiện đại bao gồm
 - [AWS Lambda Layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
 
 ---
-
-## Demo Trực Tiếp
-
-**Truy cập ứng dụng đã deploy:** [https://d3rs3evkmfvesp.cloudfront.net/](https://d3rs3evkmfvesp.cloudfront.net/)
-

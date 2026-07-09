@@ -1,11 +1,11 @@
 ---
 title : "Conclusions & Recommendations"
-date : "2026-07-09"
+date : "2025-10-10"
 weight : 5
 chapter : false
 pre : " <b> 5.5 </b> "
 ---
-# 5.5. Conclusions & Recommendations
+
 
 ---
 
@@ -128,8 +128,3 @@ The project showcases modern cloud development practices including Infrastructur
 - [AWS Lambda Layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
 
 ---
-
-## Live Demo
-
-**Access the deployed application:** [https://d3rs3evkmfvesp.cloudfront.net/](https://d3rs3evkmfvesp.cloudfront.net/)
-
