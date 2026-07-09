@@ -36,20 +36,20 @@ Trong suốt quá trình thực tập tại công ty, tôi luôn nỗ lực hoà
 
 ## Bảng Tự Đánh Giá
 
-|| STT | Tiêu chí | Mô tả | Tốt | Khá | Trung bình |
-|| --- | -------- | ----- | --- | --- | ---------- |
-|| 1 | Kiến thức & kỹ năng chuyên môn | Nắm vững kiến thức chuyên ngành, lập trình và vận dụng linh hoạt vào công việc, thành thạo công cụ hỗ trợ, đảm bảo chất lượng hệ thống đầu ra. | ✅ | ☐ | ☐ |
-|| 2 | Khả năng học hỏi | Tiếp thu công nghệ, kiến trúc nền tảng mới và kỹ năng quản lý một cách nhanh chóng, hiệu quả. | ☐ | ✅ | ☐ |
-|| 3 | Tính chủ động | Chủ động tìm hiểu giải pháp kỹ thuật, đề xuất hướng đi cho dự án và nhận việc thay vì chờ phân công. | ✅ | ☐ | ☐ |
-|| 4 | Trách nhiệm | Đảm bảo tiến độ công việc cá nhân và toàn nhóm, chịu trách nhiệm về chất lượng mã nguồn và sự ổn định của sản phẩm. | ✅ | ☐ | ☐ |
-|| 5 | Ý thức kỷ luật | Chấp hành giờ giấc, nội quy, quy trình phát triển phần mềm và quy định của công ty. | ✅ | ☐ | ☐ |
-|| 6 | Tinh thần cầu tiến | Sẵn sàng đón nhận góp ý, phản hồi từ Mentor và các thành viên trong nhóm để hoàn thiện bản thân. | ☐ | ✅ | ☐ |
-|| 7 | Kỹ năng giao tiếp | Truyền đạt yêu cầu kỹ thuật rõ ràng, điều phối nhóm hiệu quả, báo cáo tiến độ công việc với cấp trên mạch lạc, nghiêm túc. | ☐ | ✅ | ☐ |
-|| 8 | Tinh thần làm việc nhóm | Phối hợp và dẫn dắt nhóm hiệu quả, tích cực hỗ trợ giải quyết khó khăn cho các thành viên khác. | ✅ | ☐ | ☐ |
-|| 9 | Thái độ ứng xử | Tôn trọng đồng nghiệp, đối tác và duy trì văn hóa tích cực, gắn kết trong môi trường làm việc. | ✅ | ☐ | ☐ |
-|| 10 | Tư duy giải quyết vấn đề | Nhận diện các "nút thắt" kỹ thuật và quản lý, đưa ra hướng xử lý hệ thống sáng tạo, tối ưu và đúng đắn. | ✅ | ☐ | ☐ |
-|| 11 | Đóng góp cho dự án/tổ chức | Mang lại hiệu quả công việc cụ thể, có sáng kiến cải tiến luồng xử lý/quy trình code, được ghi nhận từ đội nhóm. | ☐ | ✅ | ☐ |
-|| 12 | Đánh giá tổng thể | Nhìn nhận chung về toàn bộ quá trình thực tập với vai trò Lead & Dev. | ✅ | ☐ | ☐ |
+| STT | Tiêu chí | Mô tả | Tốt | Khá | Trung bình |
+| --- | -------- | ----- | --- | --- | ---------- |
+| 1 | Kiến thức & kỹ năng chuyên môn | Nắm vững kiến thức chuyên ngành, lập trình và vận dụng linh hoạt vào công việc, thành thạo công cụ hỗ trợ, đảm bảo chất lượng hệ thống đầu ra. | ✅ | ☐ | ☐ |
+| 2 | Khả năng học hỏi | Tiếp thu công nghệ, kiến trúc nền tảng mới và kỹ năng quản lý một cách nhanh chóng, hiệu quả. | ☐ | ✅ | ☐ |
+| 3 | Tính chủ động | Chủ động tìm hiểu giải pháp kỹ thuật, đề xuất hướng đi cho dự án và nhận việc thay vì chờ phân công. | ✅ | ☐ | ☐ |
+| 4 | Trách nhiệm | Đảm bảo tiến độ công việc cá nhân và toàn nhóm, chịu trách nhiệm về chất lượng mã nguồn và sự ổn định của sản phẩm. | ✅ | ☐ | ☐ |
+| 5 | Ý thức kỷ luật | Chấp hành giờ giấc, nội quy, quy trình phát triển phần mềm và quy định của công ty. | ✅ | ☐ | ☐ |
+| 6 | Tinh thần cầu tiến | Sẵn sàng đón nhận góp ý, phản hồi từ Mentor và các thành viên trong nhóm để hoàn thiện bản thân. | ☐ | ✅ | ☐ |
+| 7 | Kỹ năng giao tiếp | Truyền đạt yêu cầu kỹ thuật rõ ràng, điều phối nhóm hiệu quả, báo cáo tiến độ công việc với cấp trên mạch lạc, nghiêm túc. | ☐ | ✅ | ☐ |
+| 8 | Tinh thần làm việc nhóm | Phối hợp và dẫn dắt nhóm hiệu quả, tích cực hỗ trợ giải quyết khó khăn cho các thành viên khác. | ✅ | ☐ | ☐ |
+| 9 | Thái độ ứng xử | Tôn trọng đồng nghiệp, đối tác và duy trì văn hóa tích cực, gắn kết trong môi trường làm việc. | ✅ | ☐ | ☐ |
+| 10 | Tư duy giải quyết vấn đề | Nhận diện các "nút thắt" kỹ thuật và quản lý, đưa ra hướng xử lý hệ thống sáng tạo, tối ưu và đúng đắn. | ✅ | ☐ | ☐ |
+| 11 | Đóng góp cho dự án/tổ chức | Mang lại hiệu quả công việc cụ thể, có sáng kiến cải tiến luồng xử lý/quy trình code, được ghi nhận từ đội nhóm. | ☐ | ✅ | ☐ |
+| 12 | Đánh giá tổng thể | Nhìn nhận chung về toàn bộ quá trình thực tập với vai trò Lead & Dev. | ✅ | ☐ | ☐ |
 
 ---
 

@@ -31,4 +31,4 @@ Worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian
 
 **Tuần 11:** [EditPanel, cập nhật topology, hoàn thiện UI và sửa lỗi](1.11-Week11/)
 
-**Tuần 12:** [Tuần 12](1.12-Week12/)
+**Tuần 12:** [Triển khai AWS — Backend FastAPI trên Lambda, CDN CloudFront, tích hợp CORS và xác minh end-to-end](1.12-Week12/)

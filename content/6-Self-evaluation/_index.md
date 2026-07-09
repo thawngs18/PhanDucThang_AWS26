@@ -36,20 +36,20 @@ Throughout the internship, I always strived to complete assigned tasks well, fol
 
 ## Self-Assessment Table
 
-|| No. | Criteria | Description | Good | Fair | Average |
-|| --- | -------- | ----------- | ---- | ---- | ------- |
-|| 1 | Professional knowledge & skills | Mastering professional knowledge, programming and flexibly applying to work, proficient in support tools, ensuring output system quality. | ✅ | ☐ | ☐ |
-|| 2 | Learning ability | Quickly and effectively absorbing new technologies, platform architecture, and management skills. | ☐ | ✅ | ☐ |
-|| 3 | Proactiveness | Proactively researching technical solutions, proposing project directions, and taking on tasks instead of waiting for assignments. | ✅ | ☐ | ☐ |
-|| 4 | Sense of responsibility | Ensuring personal and team work progress, taking responsibility for code quality and product stability. | ✅ | ☐ | ☐ |
-|| 5 | Discipline awareness | Following schedules, regulations, software development processes, and company policies. | ✅ | ☐ | ☐ |
-|| 6 | Aspiration spirit | Ready to accept feedback from Mentors and team members to improve oneself. | ☐ | ✅ | ☐ |
-|| 7 | Communication skills | Clearly conveying technical requirements, effectively coordinating teams, reporting work progress to superiors coherently and seriously. | ☐ | ✅ | ☐ |
-|| 8 | Teamwork spirit | Effectively coordinating and leading the team, actively supporting others in solving difficulties. | ✅ | ☐ | ☐ |
-|| 9 | Behavior & attitude | Respecting colleagues, partners, maintaining a positive culture and bonding in the work environment. | ✅ | ☐ | ☐ |
-|| 10 | Problem-solving thinking | Identifying technical and management "bottlenecks", proposing creative, optimal, and correct system solutions. | ✅ | ☐ | ☐ |
-|| 11 | Contribution to project/organization | Bringing specific work efficiency, innovating processing flows/code processes, recognized by the team. | ☐ | ✅ | ☐ |
-|| 12 | Overall assessment | General view of the entire internship process with Lead & Dev roles. | ✅ | ☐ | ☐ |
+| No. | Criteria | Description | Good | Fair | Average |
+| --- | -------- | ----------- | ---- | ---- | ------- |
+| 1 | Professional knowledge & skills | Mastering professional knowledge, programming and flexibly applying to work, proficient in support tools, ensuring output system quality. | ✅ | ☐ | ☐ |
+| 2 | Learning ability | Quickly and effectively absorbing new technologies, platform architecture, and management skills. | ☐ | ✅ | ☐ |
+| 3 | Proactiveness | Proactively researching technical solutions, proposing project directions, and taking on tasks instead of waiting for assignments. | ✅ | ☐ | ☐ |
+| 4 | Sense of responsibility | Ensuring personal and team work progress, taking responsibility for code quality and product stability. | ✅ | ☐ | ☐ |
+| 5 | Discipline awareness | Following schedules, regulations, software development processes, and company policies. | ✅ | ☐ | ☐ |
+| 6 | Aspiration spirit | Ready to accept feedback from Mentors and team members to improve oneself. | ☐ | ✅ | ☐ |
+| 7 | Communication skills | Clearly conveying technical requirements, effectively coordinating teams, reporting work progress to superiors coherently and seriously. | ☐ | ✅ | ☐ |
+| 8 | Teamwork spirit | Effectively coordinating and leading the team, actively supporting others in solving difficulties. | ✅ | ☐ | ☐ |
+| 9 | Behavior & attitude | Respecting colleagues, partners, maintaining a positive culture and bonding in the work environment. | ✅ | ☐ | ☐ |
+| 10 | Problem-solving thinking | Identifying technical and management "bottlenecks", proposing creative, optimal, and correct system solutions. | ✅ | ☐ | ☐ |
+| 11 | Contribution to project/organization | Bringing specific work efficiency, innovating processing flows/code processes, recognized by the team. | ☐ | ✅ | ☐ |
+| 12 | Overall assessment | General view of the entire internship process with Lead & Dev roles. | ✅ | ☐ | ☐ |
 
 ---
 

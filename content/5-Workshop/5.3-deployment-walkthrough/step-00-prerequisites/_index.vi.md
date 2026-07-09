@@ -1,7 +1,7 @@
 ---
 title : "Điều kiện tiên quyết"
 date : "2026-07-09"
-weight : 0
+weight : -1
 chapter : false
 pre : " <b> Step 0 </b> "
 ---

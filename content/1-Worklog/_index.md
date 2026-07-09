@@ -31,4 +31,4 @@ The worklog is carried out over about 3 months (throughout the internship period
 
 **Week 11:** [EditPanel, topology update, UI polish, and bug fixes](1.11-Week11/)
 
-**Week 12:** [Week 12](1.12-Week12/)
+**Week 12:** [AWS Deployment — FastAPI backend on Lambda, CloudFront CDN, CORS integration, and end-to-end verification](1.12-Week12/)
