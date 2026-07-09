@@ -43,13 +43,6 @@ Build a serverless platform on AWS that automates network security assessment â€
 - **Serverless Architecture:** Entire backend runs on Lambda + API Gateway with no server management
 - **Infrastructure as Code:** AWS CDK enables one-command deployment and destruction
 
-### Success Criteria
-1. Web dashboard loads from S3 static hosting via CloudFront CDN
-2. API Gateway returns `{"status":"ok"}` at `/api/health`
-3. Lambda calls Google Gemini and returns valid topology JSON
-4. Attack simulation displays animated path on ReactFlow canvas
-5. Defense measures can be applied and re-simulated
-6. Entire infrastructure deployed with `cdk deploy` and destroyed with `cdk destroy`
 
 ---
 
@@ -133,4 +126,4 @@ The project operates entirely within AWS Free Tier + Google Gemini Free Tier, re
 
 ---
 
-*Cloud Nexus â€” Project Proposal Document*
+

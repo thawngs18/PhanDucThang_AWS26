@@ -18,7 +18,7 @@ pre: " <b> 2. </b> "
 - Mô phỏng đường dẫn tấn công với hình ảnh hóa từng bước
 - Đề xuất biện pháp phòng thủ để giảm thiểu rủi ro
 
-### Ngăn Xếp Công Nghệ
+### Công Nghệ
 
 | Thành Phần | Công Nghệ |
 |-----------|------------|
@@ -41,15 +41,8 @@ Xây dựng nền tảng serverless trên AWS tự động hóa đánh giá bả
 - **Hình Ảnh Hóa Tấn Công:** Mô phỏng đường dẫn tấn công được animate trên canvas ReactFlow hiển thị từng bước xâm nhập
 - **Đề Xuất Phòng Thủ:** Gợi ý phòng thủ từ AI với khả năng chạy lại mô phỏng sau khi áp dụng biện pháp phòng thủ
 - **Kiến Trúc Serverless:** Toàn bộ backend chạy trên Lambda + API Gateway không cần quản lý server
-- **Hạ Tầng Như Mã:** AWS CDK cho phép triển khai và hủy bỏ chỉ bằng một lệnh
+- **Hạ Tầng Triển Khai:** AWS CDK cho phép triển khai và hủy bỏ chỉ bằng một lệnh
 
-### Tiêu Chí Thành Công
-1. Dashboard web tải từ S3 static hosting qua CloudFront CDN
-2. API Gateway trả về `{"status":"ok"}` tại `/api/health`
-3. Lambda gọi Google Gemini và trả về JSON topology hợp lệ
-4. Mô phỏng tấn công hiển thị đường dẫn animate trên canvas ReactFlow
-5. Có thể áp dụng biện pháp phòng thủ và chạy lại mô phỏng
-6. Toàn bộ hạ tầng triển khai với `cdk deploy` và hủy với `cdk destroy`
 
 ---
 
@@ -133,4 +126,4 @@ Dự án hoạt động hoàn toàn trong AWS Free Tier + Google Gemini Free Tie
 
 ---
 
-*Cloud Nexus — Tài Liệu Đề Xuất Dự Án*
+
