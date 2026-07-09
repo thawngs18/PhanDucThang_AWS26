@@ -5,7 +5,7 @@ weight: 2
 chapter: false
 pre: " <b> 2. </b> "
 ---
-# Cloud Nexus — Project Proposal
+# Cloud Nexus
 
 ---
 

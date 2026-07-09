@@ -5,7 +5,7 @@ weight: 2
 chapter: false
 pre: " <b> 2. </b> "
 ---
-# Cloud Nexus — Đề Xuất Dự Án
+# Cloud Nexus
 
 ---
 
