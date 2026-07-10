@@ -11,7 +11,7 @@ Trong quá trình thực tập, em đã tham gia 4 sự kiện do cộng đồng
 ### [Event 1](4.1-Event1/)
 &emsp;**Tên sự kiện:** Kick Off AWS First Cloud AI Journey
 
-&emsp;**Thời gian:** 09:00 ngày 07/04/2026
+&emsp;**Thời gian:** 09:00 ngày 17/04/2026
 
 &emsp;**Địa điểm:** Hội trường E3-05.01, HUTECH Thủ Đức
 
