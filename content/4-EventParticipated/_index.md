@@ -11,7 +11,7 @@ During my internship, I participated in four events organized by the AWS FCAJ co
 ### [Event 1](4.1-Event1/)
 &emsp;**Event Name:** Kick Off AWS First Cloud AI Journey
 
-&emsp;**Date & Time:** 09:00, April 7, 2026
+&emsp;**Date & Time:** 09:00, April 17, 2026
 
 &emsp;**Location:** Hall E3-05.01, HUTECH Thu Duc
 
